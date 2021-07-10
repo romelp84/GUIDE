@@ -34,12 +34,6 @@
 <channel id="CanalSony.mx">
 <display-name>Canal Sony</display-name>
 </channel>
-<channel id="CaracolInternacional.co">
-<display-name>Caracol</display-name>
-</channel>
-<channel id="CaracolTVCanal1.co">
-<display-name>Caracol</display-name>
-</channel>
 <channel id="CartoonNetwork.mx">
 <display-name>Cartoon Network</display-name>
 <display-name>Cartoon Network HD</display-name>
@@ -52,9 +46,6 @@
 </channel>
 <channel id="Clic.mx">
 <display-name>AZ Click</display-name>
-</channel>
-<channel id="CNBC.us">
-<display-name>CNBC</display-name>
 </channel>
 <channel id="Corazon.mx">
 <display-name>AZ Corazon</display-name>
@@ -92,9 +83,6 @@
 <channel id="DiscoveryScience.mx">
 <display-name>Discovery Science LatinoAmerica</display-name>
 </channel>
-<channel id="DiscoveryTurbo.co">
-<display-name>Discovery Turbo LatinoAmerica</display-name>
-</channel>
 <channel id="DiscoveryTurbo.mx">
 <display-name>Discovery Turbo LatinoAmerica</display-name>
 </channel>
@@ -116,10 +104,6 @@
 </channel>
 <channel id="EEntertainmentTV.mx">
 <display-name>E! Latinoamerica</display-name>
-</channel>
-<channel id="ESPN.ar">
-<display-name>ESPN Sur</display-name>
-<display-name>ESPN Sur HD</display-name>
 </channel>
 <channel id="ESPN.mx">
 <display-name>ESPN Latinoamerica</display-name>
@@ -143,9 +127,6 @@
 <channel id="ESPNTres(North).mx">
 <display-name>ESPN 3 Latinoamerica</display-name>
 </channel>
-<channel id="EstrellaTV(Spanish).us">
-<display-name>Estrella TV</display-name>
-</channel>
 <channel id="Eurosport1.uk">
 <display-name>EuroSport 1</display-name>
 </channel>
@@ -154,9 +135,6 @@
 </channel>
 <channel id="FilmAndArts.mx">
 <display-name>Film &amp; Arts Latinoamerica</display-name>
-</channel>
-<channel id="FoxDeportes(Spanish).us">
-<display-name>Fox Sports Deportes</display-name>
 </channel>
 <channel id="FoxLife.mx">
 <display-name>FOX Life</display-name>
@@ -168,17 +146,8 @@
 <display-name>FoxSports.ar</display-name>
 <display-name>FoxSportsHD.ar</display-name>
 </channel>
-<channel id="FoxSports2(Argentina).ar">
-<display-name>FoxSports2.ar</display-name>
-<display-name>FoxSports2HD.ar</display-name>
-</channel>
 <channel id="FoxSports2(ConoNorte).mx">
 <display-name>Fox Sports 2 Latinoamerica</display-name>
-</channel>
-<channel id="FoxSports3(ConoSur).ar">
-<display-name>Fox Sports 3 Sur</display-name>
-<display-name>Fox Sports 3 Sur FHD</display-name>
-<display-name>Fox Sports 3 Sur HD</display-name>
 </channel>
 <channel id="FoxSports3.mx">
 <display-name>Fox Sports 3 Latinoamerica</display-name>
@@ -189,9 +158,6 @@
 <channel id="FXMovies.mx">
 <display-name>FX Movies</display-name>
 </channel>
-<channel id="GalavisionCableNetwork(Spanish).us">
-<display-name>Galavision</display-name>
-</channel>
 <channel id="Glitz.mx">
 <display-name>Glitz Latinoamerica</display-name>
 </channel>
@@ -200,9 +166,6 @@
 </channel>
 <channel id="GoldenEdge.mx">
 <display-name>Golden Plus</display-name>
-</channel>
-<channel id="GOLTV(Spanish).us">
-<display-name>Goltv</display-name>
 </channel>
 <channel id="HBO.mx">
 <display-name>HBO Latinoamerica</display-name>
@@ -226,22 +189,10 @@
 <display-name>History Channel LatinoAmerica</display-name>
 <display-name>History Channel MX</display-name>
 </channel>
-<channel id="HolaTv.co">
-<display-name>Hola TV</display-name>
-</channel>
-<channel id="La1.es">
-<display-name>La 1</display-name>
-</channel>
-<channel id="La2.es">
-<display-name>La 2</display-name>
-</channel>
 <channel id="LasEstrellas.mx">
 <display-name>Las Estrellas</display-name>
 <display-name>Las Estrellas HD</display-name>
 <display-name>Las Estrellas SD</display-name>
-</channel>
-<channel id="LaSexta.es">
-<display-name>La sexta</display-name>
 </channel>
 <channel id="Lifetime.mx">
 <display-name>Lifetime Latinoamerica</display-name>
@@ -273,12 +224,6 @@
 <channel id="Once.mx">
 <display-name>Canal Once</display-name>
 </channel>
-<channel id="SenalColombia.co">
-<display-name>Senal Colombia</display-name>
-</channel>
-<channel id="Showtime.us">
-<display-name>Showtime East Latino HD</display-name>
-</channel>
 <channel id="Showtime2.us">
 <display-name>Showtime 2 East Latino HD</display-name>
 </channel>
@@ -299,9 +244,6 @@
 </channel>
 <channel id="STARCINEMA.mx">
 <display-name>Fox Premium Cinema</display-name>
-</channel>
-<channel id="starClassics.co">
-<display-name>Fox Premium Classics</display-name>
 </channel>
 <channel id="starClassics.mx">
 <display-name>Fox Premium Classics</display-name>
@@ -333,9 +275,6 @@
 <channel id="StarzEncoreAction.us">
 <display-name>Null</display-name>
 </channel>
-<channel id="StarzEncoreFamily.us">
-<display-name>Null</display-name>
-</channel>
 <channel id="StarzEncoreSuspense.us">
 <display-name>Null</display-name>
 </channel>
@@ -353,9 +292,6 @@
 </channel>
 <channel id="Telecinco.es">
 <display-name>Telecinco</display-name>
-</channel>
-<channel id="Teledeporte.es">
-<display-name>TeleDeporte</display-name>
 </channel>
 <channel id="Telemundo(Spanish).us">
 <display-name>Telemundo</display-name>
@@ -378,9 +314,6 @@
 <channel id="TVCDeportes.mx">
 <display-name>TVC Deportes</display-name>
 </channel>
-<channel id="TvPublica.ar">
-<display-name>Telemundo</display-name>
-</channel>
 <channel id="TYCSports.ar">
 <display-name>TyC Sports</display-name>
 <display-name>TyC Sports HD</display-name>
@@ -388,38 +321,17 @@
 <channel id="Unicable.mx">
 <display-name>Unicable</display-name>
 </channel>
-<channel id="UniMas(East)(Spanish).us">
-<display-name>Unimas</display-name>
-</channel>
-<channel id="UniMas(Pacific)(Spanish).us">
-<display-name>Unimas</display-name>
-</channel>
 <channel id="Universaltv.co">
 <display-name>Universal Channel America Latina</display-name>
 </channel>
 <channel id="Universaltv.mx">
 <display-name>Universal Channel America Latina</display-name>
 </channel>
-<channel id="UNIVERSO(Spanish).us">
-<display-name>NBC Universo</display-name>
-</channel>
-<channel id="UnivisionNetwork(Pacific)(Spanish).us">
-<display-name>Univision</display-name>
-</channel>
-<channel id="UnivisionNetwork(Spanish).us">
-<display-name>Univision</display-name>
-</channel>
-<channel id="UnivisionTLNovelas(Spanish).us">
-<display-name>Univision</display-name>
-</channel>
 <channel id="VH1.mx">
 <display-name>VH1 Classic</display-name>
 </channel>
 <channel id="WarnerChannel.mx">
 <display-name>Warner Channel Latinoamerica</display-name>
-</channel>
-<channel id="WinSports.co">
-<display-name>Win Sports</display-name>
 </channel>
 <channel id="XHDFTDT(AztecaUno).mx">
 <display-name>Azteca 1</display-name>
@@ -2295,145 +2207,6 @@
 <title lang="es" >Leones en la Ciudad</title>
 <desc lang="es">El reconocido jugador y activista animal Rory viaja a África a buscar un león africano captado en un teléfono celular que aterrorizan las calles de Milwaukee.</desc>
 </programme>
-<programme start="20210709003000 +0000" stop="20210709011500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Live casino</title>
-<desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
-</programme>
-<programme start="20210709011500 +0000" stop="20210709020000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Play uzu nights</title>
-<desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
-</programme>
-<programme start="20210709020000 +0000" stop="20210709041500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Minutos musicales</title>
-<desc lang="">Emisión de videoclips y piezas musicales.</desc>
-</programme>
-<programme start="20210709041500 +0000" stop="20210709065500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Las noticias de la mañana</title>
-<desc lang="">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez y María José Sáez junto a Marina Monzón conducen este informativo…
-Angie Rigueiro
-Irenka Zufiria
-Lorena García
-Manu Sánchez
-Maria José Saez
-Marina Monzón
-Mercedes Martín.</desc>
-</programme>
-<programme start="20210709065500 +0000" stop="20210709070000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Previo: Espejo Público</title>
-<desc lang="">Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata
-Lorena García
-Susana Griso
-Susanna Griso.</desc>
-</programme>
-<programme start="20210709070000 +0000" stop="20210709112000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Espejo Público</title>
-<desc lang="">Magacín matinal, presentado por Susana Griso, cuyo eje central es la actualidad nacional e internacional más inmediata
-Lorena García
-Susana Griso
-Susanna Griso.</desc>
-</programme>
-<programme start="20210709112000 +0000" stop="20210709114500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cocina abierta de Karlos Arguiñano</title>
-<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
-Karlos Arguiñano.</desc>
-</programme>
-<programme start="20210709114500 +0000" stop="20210709130000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >La ruleta de la suerte</title>
-<desc lang="">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones
-Jorge Fernández.</desc>
-</programme>
-<programme start="20210709130000 +0000" stop="20210709134500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Antena 3 Noticias 1</title>
-<desc lang="">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.
-Sandra Golpe.</desc>
-</programme>
-<programme start="20210709134500 +0000" stop="20210709140000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Deportes</title>
-<desc lang="">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez y Manu Sánchez. Un repaso a los resultados deportivos de la jornada en el ámbito…
-Manu Sánchez
-Rocío Martínez.</desc>
-</programme>
-<programme start="20210709140000 +0000" stop="20210709140200 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cocina abierta de Karlos Arguiñano</title>
-<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
-Karlos Arguiñano.</desc>
-</programme>
-<programme start="20210709140200 +0000" stop="20210709143000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Tu tiempo con Roberto Brasero</title>
-<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
-Roberto Brasero.</desc>
-</programme>
-<programme start="20210709143000 +0000" stop="20210709154500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Amar es para siempre</title>
-<desc lang="">Inés y Mauro son dos jóvenes abogados que pese a no tener muy buena relación cuando se conocen se van enamorando día a día. Ella ve en él a un chico arrogante, pero ese espíritu…
-Anabel Alonso
-Beatriz Argüello
-Fernando Cayo
-Itziar Miranda
-Iñaki Miramón
-Javier Collado
-José Antonio Sayagués
-José Manuel Seda
-Lucía Jiménez
-Lucía Martín Abello
-Manuel Baqueiro
-Mariona Ribas
-María Barranco
-Nadia de Santiago
-Olivia Molina
-Rocío Muñoz
-Víctor Clavijo.</desc>
-</programme>
-<programme start="20210709154500 +0000" stop="20210709170000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Tierra amarga</title>
-<desc lang="">Züleyha y Yilmaz, una joven pareja, tienen una plácida vida en Estambul hasta que un intento de abuso sexual y un crimen destrozan su vida para siempre.
-Bülent Polat
-Hilal Altinbilek
-Murat Ünalmis
-Selin Genç
-Selin Yeninci
-Sibel Tasçioglu.</desc>
-</programme>
-<programme start="20210709170000 +0000" stop="20210709180000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >¡Boom!</title>
-<desc lang="">Concurso presentado por Juanra Bonet en el que dos equipos de participantes deben desactivar bombas de leds respondiendo a varias preguntas en un tiempo concreto. Cuantos menos…
-Juanra Bonet.</desc>
-</programme>
-<programme start="20210709180000 +0000" stop="20210709190000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Pasapalabra</title>
-<desc lang="">Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
-Roberto Leal.</desc>
-</programme>
-<programme start="20210709190000 +0000" stop="20210709194500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Antena 3 Noticias 2</title>
-<desc lang="">Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés.
-Esther Vaquero
-Sandra Golpe
-Vicente Vallés.</desc>
-</programme>
-<programme start="20210709194500 +0000" stop="20210709195500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Deportes</title>
-<desc lang="">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Manu Sánchez y Rocío Martínez. Un repaso a los resultados deportivos de la jornada en el ámbito…
-Manu Sánchez
-Rocío Martínez.</desc>
-</programme>
-<programme start="20210709195500 +0000" stop="20210709201000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >El tiempo</title>
-<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
-Roberto Brasero.</desc>
-</programme>
-<programme start="20210709201000 +0000" stop="20210709222000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >La Voz Kids</title>
-<desc lang="">Concurso musical que busca la mejor voz infantil de España.
-Eva González
-Juanra Bonet.</desc>
-</programme>
-<programme start="20210709222000 +0000" stop="20210710003000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >La Voz Kids</title>
-<desc lang="">David Bisbal, Rosario Flores, Melendi y Vanesa Martín son los encargados de guiar y asesorar a las pequeñas estrellas que se presentan a este concurso
-Eva González
-Juanra Bonet.</desc>
-</programme>
 <programme start="20210710003000 +0000" stop="20210710011500 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Live casino</title>
 <desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
@@ -2571,37 +2344,33 @@ Scott Bailey.</desc>
 <title lang="" >Play uzu nights</title>
 <desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
 </programme>
-<programme start="20210711020000 +0000" stop="20210711050000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711020000 +0000" stop="20210711051500 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Minutos musicales</title>
 <desc lang="">Emisión de videoclips y piezas musicales.</desc>
 </programme>
-<programme start="20210711050000 +0000" stop="20210711052500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711051500 +0000" stop="20210711054300 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Pelopicopata016</title>
 <desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
 </programme>
-<programme start="20210711052500 +0000" stop="20210711055000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711054300 +0000" stop="20210711061200 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Pelopicopata004</title>
 <desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
 </programme>
-<programme start="20210711055000 +0000" stop="20210711061500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711061200 +0000" stop="20210711064000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Pelopicopata004</title>
 <desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
 </programme>
-<programme start="20210711061500 +0000" stop="20210711074500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Los más</title>
-<desc lang="">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han….</desc>
-</programme>
-<programme start="20210711074500 +0000" stop="20210711081500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711064000 +0000" stop="20210711071000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Centímetros cúbicos021</title>
 <desc lang="">Espacio semanal que da un repaso a la actualidad de los deportes de motor, a través de reportajes y entrevistas. El programa, ofrece información sobre las pruebas del Mundial de….</desc>
 </programme>
-<programme start="20210711081500 +0000" stop="20210711111500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711071000 +0000" stop="20210711112000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >La Voz Kids</title>
-<desc lang="">Concurso musical que busca la mejor voz infantil de España.
+<desc lang="">Último asalto en el que los seis talentos tratarán de pasar a la semifinal.
 Eva González
 Juanra Bonet.</desc>
 </programme>
-<programme start="20210711111500 +0000" stop="20210711115000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711112000 +0000" stop="20210711115000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Cocina abierta de Karlos Arguiñano</title>
 <desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
 Karlos Arguiñano.</desc>
@@ -2628,16 +2397,34 @@ Mónica Carrillo.</desc>
 Himar González.</desc>
 </programme>
 <programme start="20210711140000 +0000" stop="20210711154500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cine</title>
-<desc lang="">Emisión de una película.</desc>
+<title lang="" >En la casa equivocada</title>
+<desc lang="">La familia Lassiter se traslada a una nueva casa y empiezan a ocurrir cosas un poco extrañas, como recibir pedidos a domicilio que no han hecho. Alguien está haciendo cosas para…
+Sam Irvin
+Allison McAtee
+Clare Kramer
+Thomas Calabro
+Tilky Jones.</desc>
 </programme>
 <programme start="20210711154500 +0000" stop="20210711173000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cine</title>
-<desc lang="">Emisión de una película.</desc>
+<title lang="" >Amar para siempre</title>
+<desc lang="">La tía de Lucy fallece y le nombra heredera de la finca en la que pasó su infancia. A su llegada se lleva la sorpresa de que es copropietaria con Duncan, un joven a quien su tía…
+Allan Harmon
+Amanda Schull
+Anna Van Hooft
+Brittney Wilson
+Peter Porte
+Vanessa Bell Calloway.</desc>
 </programme>
 <programme start="20210711173000 +0000" stop="20210711190000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cine</title>
-<desc lang="">Emisión de una película.</desc>
+<title lang="" >La venganza de una hermana</title>
+<desc lang="">Michael es un hombre afortunado ya que es el propietario del restaurante de moda de la ciudad, tiene una maravillosa esposa y un hijo encantador. Todo cambiará con la llegada de…
+Curtis Crawford
+Allison Busner
+Ashley Jones
+Brooke Burns
+Cinthia Burke
+Rebecca Amzallag
+Tim Rozon.</desc>
 </programme>
 <programme start="20210711190000 +0000" stop="20210711194500 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Antena 3 Noticias 2 fin de semana</title>
@@ -2655,7 +2442,16 @@ Mónica Carrillo.</desc>
 <desc lang="">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan…
 Himar González.</desc>
 </programme>
-<programme start="20210711201000 +0000" stop="20210712003000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210711201000 +0000" stop="20210711222000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Mi hija</title>
+<desc lang="">Tras mantener una emotiva conversación, Demir y Öykü decidirán luchar juntos contra la enfermedad que sufre la pequeña. En la casa solo habrá hueco para la esperanza y la ilusión.
+Beren Gokyildiz
+Bugra Gülsoy
+Leyla Lydia Tugutlu
+Serhat Teoman
+Tugay Mercan.</desc>
+</programme>
+<programme start="20210711222000 +0000" stop="20210712003000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Mi hija</title>
 <desc lang="">La historia de Öykü, una adorable y valiente niña de 8 años, y Demir, que años después descubre que él es su padre. Una emotiva historia de abnegación y devoción
 Beren Gokyildiz
@@ -2801,7 +2597,164 @@ Lolita Flores
 Pablo Díaz
 Pablo Motos.</desc>
 </programme>
-<programme start="20210712204500 +0000" stop="20210713003000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210712204500 +0000" stop="20210712223000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Mujer</title>
+<desc lang="">Şirin, que no se dio cuenta de la grabación de voz de Arif donde ella confiesa que mató a Sarp, continuará con sus malas acciones a toda velocidad. La joven se marcará un nuevo…
+Bennu Yildirimlar
+Caner Cindoruk
+Seray Kaya
+Özge Özpirinçci.</desc>
+</programme>
+<programme start="20210712223000 +0000" stop="20210713003000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Tierra amarga</title>
+<desc lang="">Züleyha y Yilmaz, una joven pareja, tienen una plácida vida en Estambul hasta que un intento de abuso sexual y un crimen destrozan su vida para siempre.
+Bülent Polat
+Hilal Altinbilek
+Murat Ünalmis
+Selin Genç
+Selin Yeninci
+Sibel Tasçioglu.</desc>
+</programme>
+<programme start="20210713003000 +0000" stop="20210713011500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Live casino</title>
+<desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
+</programme>
+<programme start="20210713011500 +0000" stop="20210713020000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Play uzu nights</title>
+<desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
+</programme>
+<programme start="20210713020000 +0000" stop="20210713041500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Minutos musicales</title>
+<desc lang="">Emisión de videoclips y piezas musicales.</desc>
+</programme>
+<programme start="20210713041500 +0000" stop="20210713065500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Las noticias de la mañana</title>
+<desc lang="">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez y María José Sáez junto a Marina Monzón conducen este informativo…
+Angie Rigueiro
+Irenka Zufiria
+Lorena García
+Manu Sánchez
+Maria José Saez
+Marina Monzón
+Mercedes Martín.</desc>
+</programme>
+<programme start="20210713065500 +0000" stop="20210713070000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Previo: Espejo Público</title>
+<desc lang="">Magacín matinal, presentado por Susanna Griso, cuyo eje central es la actualidad nacional e internacional más inmediata
+Lorena García
+Susana Griso
+Susanna Griso.</desc>
+</programme>
+<programme start="20210713070000 +0000" stop="20210713112000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Espejo Público</title>
+<desc lang="">Magacín matinal, presentado por Susana Griso, cuyo eje central es la actualidad nacional e internacional más inmediata
+Lorena García
+Susana Griso
+Susanna Griso.</desc>
+</programme>
+<programme start="20210713112000 +0000" stop="20210713114500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cocina abierta de Karlos Arguiñano</title>
+<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
+Karlos Arguiñano.</desc>
+</programme>
+<programme start="20210713114500 +0000" stop="20210713130000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >La ruleta de la suerte</title>
+<desc lang="">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones
+Jorge Fernández.</desc>
+</programme>
+<programme start="20210713130000 +0000" stop="20210713134500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Antena 3 Noticias 1</title>
+<desc lang="">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.
+Sandra Golpe.</desc>
+</programme>
+<programme start="20210713134500 +0000" stop="20210713140000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Deportes</title>
+<desc lang="">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez y Manu Sánchez. Un repaso a los resultados deportivos de la jornada en el ámbito…
+Manu Sánchez
+Rocío Martínez.</desc>
+</programme>
+<programme start="20210713140000 +0000" stop="20210713140200 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cocina abierta de Karlos Arguiñano</title>
+<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
+Karlos Arguiñano.</desc>
+</programme>
+<programme start="20210713140200 +0000" stop="20210713143000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Tu tiempo con Roberto Brasero</title>
+<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
+Roberto Brasero.</desc>
+</programme>
+<programme start="20210713143000 +0000" stop="20210713154500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Amar es para siempre</title>
+<desc lang="">Inés y Mauro son dos jóvenes abogados que pese a no tener muy buena relación cuando se conocen se van enamorando día a día. Ella ve en él a un chico arrogante, pero ese espíritu…
+Anabel Alonso
+Beatriz Argüello
+Fernando Cayo
+Itziar Miranda
+Iñaki Miramón
+Javier Collado
+José Antonio Sayagués
+José Manuel Seda
+Lucía Jiménez
+Lucía Martín Abello
+Manuel Baqueiro
+Mariona Ribas
+María Barranco
+Nadia de Santiago
+Olivia Molina
+Rocío Muñoz
+Víctor Clavijo.</desc>
+</programme>
+<programme start="20210713154500 +0000" stop="20210713170000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Tierra amarga</title>
+<desc lang="">Züleyha y Yilmaz, una joven pareja, tienen una plácida vida en Estambul hasta que un intento de abuso sexual y un crimen destrozan su vida para siempre.
+Bülent Polat
+Hilal Altinbilek
+Murat Ünalmis
+Selin Genç
+Selin Yeninci
+Sibel Tasçioglu.</desc>
+</programme>
+<programme start="20210713170000 +0000" stop="20210713180000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >¡Boom!</title>
+<desc lang="">Concurso presentado por Juanra Bonet en el que dos equipos de participantes deben desactivar bombas de leds respondiendo a varias preguntas en un tiempo concreto. Cuantos menos…
+Juanra Bonet.</desc>
+</programme>
+<programme start="20210713180000 +0000" stop="20210713190000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Pasapalabra</title>
+<desc lang="">Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
+Roberto Leal.</desc>
+</programme>
+<programme start="20210713190000 +0000" stop="20210713193000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Antena 3 Noticias 2</title>
+<desc lang="">Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés.
+Esther Vaquero
+Sandra Golpe
+Vicente Vallés.</desc>
+</programme>
+<programme start="20210713193000 +0000" stop="20210713193500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Deportes</title>
+<desc lang="">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Manu Sánchez y Rocío Martínez. Un repaso a los resultados deportivos de la jornada en el ámbito…
+Manu Sánchez
+Rocío Martínez.</desc>
+</programme>
+<programme start="20210713193500 +0000" stop="20210713194500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >El tiempo</title>
+<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
+Roberto Brasero.</desc>
+</programme>
+<programme start="20210713194500 +0000" stop="20210713204500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >El hormiguero 3.0</title>
+<desc lang="">Pablo Motos capitanea un equipo de desenfadados personajes dispuestos a diseccionar cada día la actualidad en tono jocoso
+Antonio Dechent
+Elena Furiase
+Leo Harlem
+Lola Índigo
+Lolita Flores
+Pablo Díaz
+Pablo Motos
+Santiago Segura.</desc>
+</programme>
+<programme start="20210713204500 +0000" stop="20210714003000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Mujer</title>
 <desc lang="">Bahar es una mujer que fue abandonada por su madre cuando tenía 8 años. En un momento de mucha soledad conoce a Sarp, de quien se enamora perdidamente
 Bennu Yildirimlar
@@ -3756,10 +3709,6 @@ Seray Kaya
 <programme start="20210710233000 +0000" stop="20210711020000 +0000" channel="Azteca7.mx">
 <title lang="es" >Moana</title>
 <desc lang="es">Vaiana, una adolescente de las islas del sur del Pacífico, atraviesa el océano y explora el mundo para demostrar que es tan valiente como el resto de su familia. En su periplo se encontrará con Maui, quien en el pasado fue un semidios poderoso.</desc>
-</programme>
-<programme start="20210707230000 +0000" stop="20210708010000 +0000" channel="beINSportsEnEspanol(Spanish).us">
-<title lang="es" >Ligue 1 Tittle Race</title>
-<desc lang="es">Disputado el 16 de abril de 2021.</desc>
 </programme>
 <programme start="20210707010000 +0000" stop="20210707030000 +0000" channel="canal5.mx">
 <title lang="es" >Guerreros 2021</title>
@@ -6541,14 +6490,6 @@ Seray Kaya
 <title lang="es" >Tanto amor</title>
 <desc lang="es">Mía se enamora de Alberto desde el día que le salva la vida, pero son el centro de una guerra de poder y de pasiones, ambos deben vivir para revelar la verdad.</desc>
 </programme>
-<programme start="20210707204000 +0000" stop="20210708013000 +0000" channel="Cuatro.es">
-<title lang="es-ES" >Cuarto milenio</title>
-<desc lang="es-ES">En la nave del misterio se tratarán los más apasionantes temas relacionados con el mundo de lo desconocido: ufología, parapsicología, demonología, criminología y ocultismo. Todo ello con la opinión de catedráticos y expertos en diversas materias.</desc>
-</programme>
-<programme start="20210707231200 +0000" stop="20210708000800 +0000" channel="DiscoveryChannel.co">
-<title lang="es" >Fuga casi perfecta</title>
-<desc lang="es">Un hombre y sus amigos matan a un hombre y roban su camioneta; los amigos confiesan el crimen.</desc>
-</programme>
 <programme start="20210707001200 +0000" stop="20210707010600 +0000" channel="DiscoveryChannel.mx">
 <title lang="es" >Supervivencia al desnudo</title>
 <desc lang="es">Dos expertos de la sobrevivencia intentan sobrevivir en una selva inundada de Belice. Tendrán que enfrentar un laberinto de cuevas llenas de serpientes venenosas y murciélagos rabiosos.</desc>
@@ -6984,10 +6925,6 @@ Seray Kaya
 <programme start="20210710231700 +0000" stop="20210711001000 +0000" channel="DiscoveryChannel.mx">
 <title lang="es" >Supervivencia al desnudo</title>
 <desc lang="es">Un instructor del desierto y un buscavidas combaten el hambre y la deshidratación en las dunas de arena de Brasil.</desc>
-</programme>
-<programme start="20210707234800 +0000" stop="20210708003600 +0000" channel="DiscoveryCivilization.co">
-<title lang="es" >Oro bajo cero</title>
-<desc lang="es">Shaw trabaja más para cubrir a su equipo. Emily debe actuar para evitar un derrame de combustible. Ken y George colaboran para hallarle a Myrtle una veta madre.</desc>
 </programme>
 <programme start="20210707001200 +0000" stop="20210707003600 +0000" channel="DiscoveryCivilization.mx">
 <title lang="es" >Hombres legendarios</title>
@@ -7532,10 +7469,6 @@ Seray Kaya
 <programme start="20210710234800 +0000" stop="20210711003600 +0000" channel="DiscoveryCivilization.mx">
 <title lang="es" >Cuando Reinaba el Dinosaurio</title>
 <desc lang="es">Hace 68 millones de años Montana era un paraíso tropical donde reinaba el T-rex.</desc>
-</programme>
-<programme start="20210707231200 +0000" stop="20210708000800 +0000" channel="DiscoveryHomeandHealth.co">
-<title lang="es" >Hermanos a la obra</title>
-<desc lang="es">Después de vender la casa antes de lo esperado, una familia está desesperada por tener una casa propia. Drew lleva a la pareja a una casa incompatible. Jonathan decide hacer una renovación simple.</desc>
 </programme>
 <programme start="20210707000800 +0000" stop="20210707010400 +0000" channel="DiscoveryHomeandHealth.mx">
 <title lang="es" >Vestido de Novia</title>
@@ -10692,10 +10625,6 @@ Seray Kaya
 <programme start="20210710233500 +0000" stop="20210711000200 +0000" channel="DiscoveryKids.mx">
 <title lang="es" >Jorge, el curioso</title>
 <desc lang="es">Una bufanda tejida por la Sra. Renkins para MYH se arruina cuando una cabra intenta comérsela. George y MYH disfrutan de una escapada en una cabaña nevada.</desc>
-</programme>
-<programme start="20210707234800 +0000" stop="20210708003600 +0000" channel="DiscoveryScience.co">
-<title lang="es" >Catástrofes espaciales</title>
-<desc lang="es">En 1997 un grupo de astronautas y cosmonautas hace frente a un incendio que amenaza sus vidas y a un carguero fuera de control en la estación espacial rusa Mir. Además, en 2001, dos astronautas quedan temporalmente ciegos durante un paseo espacial.</desc>
 </programme>
 <programme start="20210707003600 +0000" stop="20210707012400 +0000" channel="DiscoveryScience.mx">
 <title lang="es" >Truth Behind the Moon Landing</title>
@@ -15389,10 +15318,6 @@ Seray Kaya
 <title lang="es" >Una familia de diez</title>
 <desc lang="es">Una serie mexicana de situaciones cómicas que se centra alrededor de la familia López, que está integrada por un grupo colorido de personajes inusuales. El director y productor ejecutivo de la serie humorística es Jorge Ortiz de Pinedo que también protagoniza el papel de Plácido López en la serie, él es el padre y cabeza de esta familia interesante, que vive en un apartamento diminuto, junto a él actúa Zully Keith, quien hace el papel de la esposa abnegada llamada Renata Gonzáles, Eduardo Manzano actúa como Arnoldo López, el padre de Plácido, Mariana Botas interpreta a Martina López, la hija menor, Ricardo Margaleff hace el papel de Plutarco López, el hijo mayor de la pareja, María Fernanda interpreta a Alicia "Licha", la hermana de Renata, Andrea Torre es la Nena, la hija de Alicia, también están otros personajes como Adolfo, el novio de la Nena; Tecla, la indígena adolescente y Don Justo del Valle, el jefe de Plácido.</desc>
 </programme>
-<programme start="20210707234000 +0000" stop="20210708003000 +0000" channel="EEntertainmentTV.co">
-<title lang="es" >Keeping Up With the Kardashians</title>
-<desc lang="es">Durante una tormentosa semana de cumpleaños, Khloé y Kim planean una sorpresa épica para Corey. Khloé debe decidir si congelará sus óvulos. Kim trabaja a contrarreloj para ayudar a un hombre encarcelado.</desc>
-</programme>
 <programme start="20210707003000 +0000" stop="20210707012000 +0000" channel="EEntertainmentTV.mx">
 <title lang="es" >Keeping Up With the Kardashians</title>
 <desc lang="es">Khloè no sabe si enviar a su hija a Cleveland para visitar a Tristan. Kylie considera someterse a un procedimiento médico aterrador. Scott y Khloè planean la próxima broma que le harán a Kris, la cual superará a todas las bromas anteriores.</desc>
@@ -16181,10 +16106,6 @@ Seray Kaya
 <title lang="es" >Diablos Rojos del México vs. Saraperos de Saltillo</title>
 <desc lang="es">Béisbol Liga Mexicana</desc>
 </programme>
-<programme start="20210707230000 +0000" stop="20210708010000 +0000" channel="ESPN2.ar">
-<title lang="es" >Toronto FC vs. New England Revolution</title>
-<desc lang="es">Fútbol MLS</desc>
-</programme>
 <programme start="20210707010000 +0000" stop="20210707013000 +0000" channel="Espn2.mx">
 <title lang="es" >Último tren a Tokio</title>
 <desc lang="es">Primera parte de un recorrido por la capital nipona.</desc>
@@ -16476,14 +16397,6 @@ Seray Kaya
 <programme start="20210710220000 +0000" stop="20210711000000 +0000" channel="Espn2.mx">
 <title lang="es" >Fútbol MLS</title>
 <desc lang="es">La acción de fútbol soccer de la primera división de la MLS.</desc>
-</programme>
-<programme start="20210707230000 +0000" stop="20210708020000 +0000" channel="ESPN3(south).ar">
-<title lang="es" >Los Angeles Dodgers vs. Miami Marlins</title>
-<desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210707230000 +0000" stop="20210708020000 +0000" channel="ESPNDeportes(Spanish).us">
-<title lang="es" >Los Angeles Dodgers vs. Miami Marlins</title>
-<desc lang="es">Béisbol MLB</desc>
 </programme>
 <programme start="20210707020000 +0000" stop="20210707050000 +0000" channel="ESPNTres(North).mx">
 <title lang="es" >New York Yankees vs. Seattle Mariners</title>
@@ -18532,10 +18445,6 @@ Seray Kaya
 <programme start="20210710230000 +0000" stop="20210711020000 +0000" channel="FoxSports(ConoNorte).mx">
 <title lang="es" >New York Yankees vs. Houston Astros</title>
 <desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210707230000 +0000" stop="20210708010000 +0000" channel="FOXSports(ConoSurArgentina).ar">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
 </programme>
 <programme start="20210707000000 +0000" stop="20210707020000 +0000" channel="FoxSports2(ConoNorte).mx">
 <title lang="es" >Fútbol Mexicano Femenino Primera División</title>
@@ -23245,10 +23154,6 @@ Seray Kaya
 <title lang="es" >Peligro al acecho</title>
 <desc lang="es">La azafata Kate Jewell debe esconderse cuando el hombre de sus sueños se vuelve cada vez más celoso y violento.</desc>
 </programme>
-<programme start="20210707235500 +0000" stop="20210708005500 +0000" channel="MegaTV(Spanish).us">
-<title lang="es" >Ahora con Óscar Haza</title>
-<desc lang="es">Un programa de entrevistas y corte político que analiza a profundidad los temas de actualidad que más preocupan a la colectividad.</desc>
-</programme>
 <programme start="20210707001000 +0000" stop="20210707002000 +0000" channel="MTV.mx">
 <title lang="es" >Mix Short Formats</title>
 <desc lang="es">Los mejores short formats de las propiedades MTV.</desc>
@@ -25968,10 +25873,6 @@ Seray Kaya
 <programme start="20210710235000 +0000" stop="20210711000000 +0000" channel="NatGeoKids.mx">
 <title lang="es" >Las aventuras de Pilar</title>
 <desc lang="es">En la exposición de arte escolar, Pilar y Breno están decepcionados con sus intentos fallidos como escultores. Entonces, deciden viajar con Samba a la isla de Chipre para escuchar los consejos del gran escultor Pigmalión.</desc>
-</programme>
-<programme start="20210707231500 +0000" stop="20210708001000 +0000" channel="NationalGeographic.co">
-<title lang="es" >Isla salvaje</title>
-<desc lang="es">En Port Protection, aprender a vivir junto a la madre naturaleza es la única manera de poder sobrevivir.</desc>
 </programme>
 <programme start="20210707001100 +0000" stop="20210707010500 +0000" channel="NationalGeographic.mx">
 <title lang="es" >Traficantes</title>
@@ -29365,10 +29266,6 @@ Seray Kaya
 <title lang="es" >Agenda verde</title>
 <desc lang="es">Revista semanal en la que se exponen las últimas investigaciones científicas relacionadas con la ecología, el medio ambiente y la naturaleza del planeta.</desc>
 </programme>
-<programme start="20210707233000 +0000" stop="20210708014500 +0000" channel="Showtime2.us">
-<title lang="en" >The Bodyguard</title>
-<desc lang="en">Best-selling pop diva Rachel Marron (Whitney Houston) has a stalker whose obsession has risen to the level of disturbing threats. At the urging of her manager (Gary Kemp), Rachel hires former secret service agent Frank Farmer (Kevin Costner) as her bodyguard. Initially resented and treated with disdain for his hard-nosed security procedures, Farmer soon becomes an integral part of Rachel's inner circle. As they spend more time together, client and protector become closer still.</desc>
-</programme>
 <programme start="20210707010900 +0000" stop="20210707030000 +0000" channel="Space.mx">
 <title lang="es" >Sniper: El legado</title>
 <desc lang="es">Después que varios líderes militares son asesinados, Brandon sigue la pista de los asesinos ante la noticia que su padre también podría estar entre las víctimas.</desc>
@@ -29588,10 +29485,6 @@ Seray Kaya
 <programme start="20210710213500 +0000" stop="20210711010000 +0000" channel="Space.mx">
 <title lang="es" >Jumanji</title>
 <desc lang="es">La historia de un juego mágico que libera una estampida de peligros de la selva contra sus jugadores y un hombre que desapareció en 1969 mientras jugaba.</desc>
-</programme>
-<programme start="20210707230700 +0000" stop="20210708010000 +0000" channel="starAction.co">
-<title lang="es" >Aliados y enemigos</title>
-<desc lang="es">Un criminal busca redención después de ser traicionado por personas de su confianza y de perder su imperio.</desc>
 </programme>
 <programme start="20210707010000 +0000" stop="20210707030400 +0000" channel="starAction.mx">
 <title lang="es" >El planeta de los simios: Confrontación</title>
@@ -30221,10 +30114,6 @@ Seray Kaya
 <title lang="es" >Baby: El aprendiz del crimen</title>
 <desc lang="es">Baby es un chofer especializado en fugas que, enamorado, pretende dejar la vida criminal y empezar de cero con la mujer que ama. Cuando el jefe de una banda de gánsters le obliga a trabajar para él y la operación fracasa, su vida y la de su chica pasan a estar en peligro.</desc>
 </programme>
-<programme start="20210707225700 +0000" stop="20210708010000 +0000" channel="STARCINEMA.co">
-<title lang="es" >La villana</title>
-<desc lang="es">Educada para ser una asesina implacable, Sook-hee es reclutada por el servicio de inteligencia coreano para fingir ser una actriz y actuar como agente durmiente. Cuando dos hombres entran en su vida, la aparente calma de su nueva rutina estalla y la máquina de matar que es Sook-hee se adueña de nuevo de sus instintos.</desc>
-</programme>
 <programme start="20210707010000 +0000" stop="20210707032800 +0000" channel="STARCINEMA.mx">
 <title lang="es" >La sospecha</title>
 <desc lang="es">Keller Dover se enfrenta a la peor pesadilla para un padre: la desaparición de su hija de seis años junto a una amiga. Ante la inoperancia policial, Keller empieza a investigar una casa rodante que se encontraba estacionada en su calle.</desc>
@@ -30680,10 +30569,6 @@ Seray Kaya
 <programme start="20210710230000 +0000" stop="20210711010000 +0000" channel="starClassics.mx">
 <title lang="es" >Pelotón</title>
 <desc lang="es">Las experiencias personales de O. Stone inspiraron esta historia sobre un joven soldado en la frontera de Camboya.</desc>
-</programme>
-<programme start="20210707232900 +0000" stop="20210708010000 +0000" channel="starComedy.co">
-<title lang="es" >Los calienta bancas 2: Rompiendo pelotas</title>
-<desc lang="es">Ben McGrath soñaba con convertirse en jugador profesional de béisbol, pero un accidente arruinó su carrera. Aunque la vida le da una segunda oportunidad entrenando a un equipo de sóftbol, el camino de la redención está lleno de dificultades.</desc>
 </programme>
 <programme start="20210707010000 +0000" stop="20210707025300 +0000" channel="starcomedy.mx">
 <title lang="es" >El día de las madres</title>
@@ -31193,10 +31078,6 @@ Seray Kaya
 <title lang="es" >Drillbit Taylor: Guardaespaldas escolar</title>
 <desc lang="es">Tres amigos contratan a un vagabundo desamparado para que los proteja de un joven que los golpea en la escuela.</desc>
 </programme>
-<programme start="20210707230200 +0000" stop="20210708010000 +0000" channel="StarHits.co">
-<title lang="es" >Baywatch: Guardianes de la bahía</title>
-<desc lang="es">Dos socorristas, el veterano Mitch Buchannon y el joven y arrogante Matt Brody, deben detener a unos criminales que amenazan el futuro de la bahía en la que trabajan. Mientras colaboran aprenderán a respetarse mutuamente, dado que el comienzo de su relación profesional ha sido complicado.</desc>
-</programme>
 <programme start="20210707010000 +0000" stop="20210707024800 +0000" channel="StarHits.mx">
 <title lang="es" >El robo del siglo</title>
 <desc lang="es">Viernes, 13 de enero de 2006. Los policías aguardan la voz de su jefe. Miguel Sileo, el negociador, espera hablar con Vitette, uno de los líderes de la banda de ladrones que entró a la sucursal del Banco Río de Acassuso.</desc>
@@ -31428,10 +31309,6 @@ Seray Kaya
 <programme start="20210710224100 +0000" stop="20210711010000 +0000" channel="StarHits.mx">
 <title lang="es" >Kingsman: El círculo dorado</title>
 <desc lang="es">Cuando el cuartel general de la agencia británica Kingsman es destruido, los espías unen sus fuerzas con una organización aliada estadounidense. Su objetivo es colaborar para intentar derrotar a su enemigo común y salvar al mundo.</desc>
-</programme>
-<programme start="20210707233500 +0000" stop="20210708002300 +0000" channel="starSeries.co">
-<title lang="es" >Cóndor</title>
-<desc lang="es">Reuel y Marty esperan que Caleb Woolf sea la clave para la captura de Joe. Mientras tanto, Bob intenta extraer información de Joubert.</desc>
 </programme>
 <programme start="20210707002500 +0000" stop="20210707011000 +0000" channel="StarSeries.mx">
 <title lang="es" >La desaparición</title>
@@ -31900,14 +31777,6 @@ Seray Kaya
 <programme start="20210710233500 +0000" stop="20210711003000 +0000" channel="StarSeries.mx">
 <title lang="es" >Godfather of Harlem</title>
 <desc lang="es">Bumpy utiliza el turbulento pasado de Chin para devolverles el golpe a los italianos. Mayme y Elise dejan a un lado sus diferencias y Bumpy puede disfrutar de ver a su esposa y sus hijos juntos, antes de que estalle la guerra.</desc>
-</programme>
-<programme start="20210707225500 +0000" stop="20210708010100 +0000" channel="StarzEncoreAction.us">
-<title lang="en" >Revenge</title>
-<desc lang="en">Jay Cochran (Kevin Costner), a newly retired U.S. Navy pilot, travels to Mexico to spend time with his friend Tibey Mendez (Anthony Quinn), a powerful but corrupt businessman. While there, he meets Tibey's beautiful wife, Miryea (Madeleine Stowe), who has become unhappy in her marriage. Jay and Miryea soon engage in a steamy affair. But when Tibey learns of the relationship from his henchman, Cesar (Tomas Milian), he sets out to get even with both of them.</desc>
-</programme>
-<programme start="20210707230700 +0000" stop="20210708010000 +0000" channel="StarzEncoreSuspense.us">
-<title lang="en" >Under Suspicion</title>
-<desc lang="en">"Under Suspicion" is an intense, psychological thriller, with veteran Police Captain Victor Benezet squaring off against prominent tax attorney Henry Hearst -- two life-hardened and well-matched opponents motivated by reasons more complex and personal than the pursuit of duty or the defense of reputation. Exploring the darkest recesses of the human imagination, bringing to light the dangerous psychological ramifications of a guilty conscience.</desc>
 </programme>
 <programme start="20210707010000 +0000" stop="20210707024000 +0000" channel="StudioUniversal.mx">
 <title lang="es" >Navidad en Holly Lane</title>
@@ -33941,14 +33810,6 @@ Seray Kaya
 <title lang="es" >Henry Danger</title>
 <desc lang="es">Cuando la novia del campamento de verano de Jasper llega a la ciudad, ella empieza a tener pensamientos celosos sobre Charlotte.</desc>
 </programme>
-<programme start="20210707234000 +0000" stop="20210708004000 +0000" channel="Telecinco.es">
-<title lang="es-ES" >Supervivientes 2021</title>
-<desc lang="es-ES">Los 16 participantes de la isla de los famosos ya están listos para entretener a la audiencia y luchar por los 200.000 euros que hay en juego. Jorge Javier acompañado de Lara Álvarez desde Honduras, nos cuentan todo lo que suceda en la isla.</desc>
-</programme>
-<programme start="20210707230000 +0000" stop="20210708010000 +0000" channel="Telemundo(Spanish).us">
-<title lang="es" >Exatlón Estados Unidos</title>
-<desc lang="es">Una prueba de habilidades grupales e individuales que busca a la persona con las mejores habilidades físicas y mentales a través de una serie de carreras de obstáculos, condiciones de vida extremas y un total aislamiento.</desc>
-</programme>
 <programme start="20210707000000 +0000" stop="20210707005000 +0000" channel="TelemundoInternacional.mx">
 <title lang="es" >Decisiones Extremas</title>
 <desc lang="es">Historias inspiradas en hechos de la vida real que llevan a los protagonistas a tomar "Decisiones Extremas".</desc>
@@ -34392,10 +34253,6 @@ Seray Kaya
 <programme start="20210710233000 +0000" stop="20210711002000 +0000" channel="TelemundoInternacional.mx">
 <title lang="es" >Caso cerrado</title>
 <desc lang="es">Diana fue absuelta de matar al hermano de Nadal, pero él cree que ella es racista y exige $300 000 por daños a su familia. Melisa cuidó a Paulo como un bebé, pero ahora ella renunció y él no quiere pagar.</desc>
-</programme>
-<programme start="20210707233000 +0000" stop="20210708003000 +0000" channel="TeleSur.ar">
-<title lang="es" >Edición central</title>
-<desc lang="es">El resumen informativo más completo de las noticias del día sobre el acontecer de América Latina y el resto del mundo, con perspectiva latinoamericana.</desc>
 </programme>
 <programme start="20210707010300 +0000" stop="20210707030000 +0000" channel="TNT.mx">
 <title lang="es" >Contagio</title>
@@ -35749,10 +35606,6 @@ Seray Kaya
 <title lang="es" >Boxeo</title>
 <desc lang="es">Los combates más emocionantes del boxeo mundial.</desc>
 </programme>
-<programme start="20210707230000 +0000" stop="20210708010000 +0000" channel="TYCSports.ar">
-<title lang="es" >Copa América 2021</title>
-<desc lang="es">Toda la pasión de uno de los eventos más espectaculares del planeta futbolero en el que brillan las principales figuras del mundo. Análisis, debate, información, polémica, la cobertura de la selección Argentina y toda la actualidad.</desc>
-</programme>
 <programme start="20210707000000 +0000" stop="20210707010000 +0000" channel="Unicable.mx">
 <title lang="es" >Laura sin censura</title>
 <desc lang="es">Un programa que se da el lujo de hablar, sin censura, en primera persona.</desc>
@@ -36072,10 +35925,6 @@ Seray Kaya
 <programme start="20210710230000 +0000" stop="20210711030000 +0000" channel="Unicable.mx">
 <title lang="es" >La 3era en discordia</title>
 <desc lang="es">Discusión sobre los conflictos familiares y las relaciones humanas, con la participación de todos los involucrados. Además, la presencia ocasional de especialistas y herramientas para consensuar y ser tolerantes.</desc>
-</programme>
-<programme start="20210707231500 +0000" stop="20210708001000 +0000" channel="Universaltv.co">
-<title lang="es" >Chicago P.D.</title>
-<desc lang="es">Atwater se infiltra de incógnito en una organización criminal para arrestar al jefe. Sin embargo, termina viéndose envuelto en una situación que pondrá a prueba a quién es leal.</desc>
 </programme>
 <programme start="20210707001000 +0000" stop="20210707010500 +0000" channel="Universaltv.mx">
 <title lang="es" >La Ley y el orden: Unidad de Víctimas Especiales</title>
@@ -37585,102 +37434,6 @@ Seray Kaya
 <title lang="es" >Lo que callamos las mujeres</title>
 <desc lang="es">Esta serie dramática representa en cada capítulo de una hora historias distintas y reales sobre mujeres mexicanas que atraviesan diferentes vicisitudes. Las experiencias de estas mujeres tratan de temas censurados por la sociedad y por lo tanto ellas los enfrentan en silencio, algunas de las situaciones que se examinan son: el abuso infantil, el embarazo no deseado, asesinatos, la pornografía y la violencia familiar entre otras. Al final de cada episodio se muestra una lista de centros o agencias de ayuda para personas que se sientan identificadas con los casos específicos, se hace un llamado para que busquen ayuda y rompan su silencio.</desc>
 </programme>
-<programme start="20210708000000 +0000" stop="20210708010000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708010000 +0000" stop="20210708020000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708020000 +0000" stop="20210708030000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708030000 +0000" stop="20210708040000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708040000 +0000" stop="20210708050000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708050000 +0000" stop="20210708060000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708060000 +0000" stop="20210708070000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708070000 +0000" stop="20210708080000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708080000 +0000" stop="20210708090000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708090000 +0000" stop="20210708100000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708100000 +0000" stop="20210708110000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708110000 +0000" stop="20210708120000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708120000 +0000" stop="20210708130000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708130000 +0000" stop="20210708140000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708140000 +0000" stop="20210708150000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708150000 +0000" stop="20210708160000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708160000 +0000" stop="20210708170000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708170000 +0000" stop="20210708180000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708180000 +0000" stop="20210708190000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708190000 +0000" stop="20210708200000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708200000 +0000" stop="20210708210000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708210000 +0000" stop="20210708220000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708220000 +0000" stop="20210708230000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210708230000 +0000" stop="20210709000000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
 <programme start="20210709000000 +0000" stop="20210709010000 +0000" channel="(no tvg-id)">
 <title lang="en" >No program information available</title>
 <desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
@@ -38062,6 +37815,102 @@ Seray Kaya
 <desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
 </programme>
 <programme start="20210712230000 +0000" stop="20210713000000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713000000 +0000" stop="20210713010000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713010000 +0000" stop="20210713020000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713020000 +0000" stop="20210713030000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713030000 +0000" stop="20210713040000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713040000 +0000" stop="20210713050000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713050000 +0000" stop="20210713060000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713060000 +0000" stop="20210713070000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713070000 +0000" stop="20210713080000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713080000 +0000" stop="20210713090000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713090000 +0000" stop="20210713100000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713100000 +0000" stop="20210713110000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713110000 +0000" stop="20210713120000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713120000 +0000" stop="20210713130000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713130000 +0000" stop="20210713140000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713140000 +0000" stop="20210713150000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713150000 +0000" stop="20210713160000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713160000 +0000" stop="20210713170000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713170000 +0000" stop="20210713180000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713180000 +0000" stop="20210713190000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713190000 +0000" stop="20210713200000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713200000 +0000" stop="20210713210000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713210000 +0000" stop="20210713220000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713220000 +0000" stop="20210713230000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210713230000 +0000" stop="20210714000000 +0000" channel="(no tvg-id)">
 <title lang="en" >No program information available</title>
 <desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
 </programme>
