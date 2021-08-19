@@ -3,12 +3,6 @@
 <channel id="AandE.mx">
 <display-name>A&amp;E Latinoamerica</display-name>
 </channel>
-<channel id="AdrenalinaSportsNetwork.mx">
-<display-name>Adrenalina Sports Network</display-name>
-</channel>
-<channel id="Afizzionados.mx">
-<display-name>IZZI Afizzionados</display-name>
-</channel>
 <channel id="AMC.mx">
 <display-name>AMC</display-name>
 </channel>
@@ -17,9 +11,6 @@
 </channel>
 <channel id="ANTENA3(src01).es">
 <display-name>Antena 3</display-name>
-</channel>
-<channel id="AXN.mx">
-<display-name>AXN LatinoAmerica</display-name>
 </channel>
 <channel id="Azteca7.mx">
 <display-name>Azteca 7</display-name>
@@ -40,18 +31,11 @@
 <channel id="CaracolTVCanal1.co">
 <display-name>Caracol</display-name>
 </channel>
-<channel id="CartoonNetwork.mx">
-<display-name>Cartoon Network</display-name>
-<display-name>Cartoon Network HD</display-name>
-</channel>
 <channel id="Cinemax.mx">
 <display-name>Cinemax East Latino HD</display-name>
 </channel>
 <channel id="ClaroSports.mx">
 <display-name>Claro Sports</display-name>
-</channel>
-<channel id="Clic.mx">
-<display-name>AZ Click</display-name>
 </channel>
 <channel id="CNBC.us">
 <display-name>CNBC</display-name>
@@ -83,9 +67,6 @@
 <channel id="DiscoveryKids.do">
 <display-name>Discovery Kids</display-name>
 </channel>
-<channel id="DiscoveryKids.mx">
-<display-name>Discovery Kids</display-name>
-</channel>
 <channel id="DiscoveryScience.co">
 <display-name>Discovery Science LatinoAmerica</display-name>
 </channel>
@@ -97,19 +78,6 @@
 </channel>
 <channel id="DiscoveryTurbo.mx">
 <display-name>Discovery Turbo LatinoAmerica</display-name>
-</channel>
-<channel id="DisneyChannel.mx">
-<display-name>Disney Channel Latinoamerica HD</display-name>
-<display-name>Disney Channel Mexico</display-name>
-</channel>
-<channel id="DisneyJunior.mx">
-<display-name>Disney Junior Latinoamerica</display-name>
-</channel>
-<channel id="DisneyXD.mx">
-<display-name>Disney XD Latinoamerica</display-name>
-</channel>
-<channel id="DistritoComedia.mx">
-<display-name>Distrito Comedia</display-name>
 </channel>
 <channel id="EEntertainmentTV.co">
 <display-name>E! Latinoamerica</display-name>
@@ -140,29 +108,17 @@
 <channel id="ESPNDeportes(Spanish).us">
 <display-name>ESPN Deportes</display-name>
 </channel>
-<channel id="ESPNTres(North).mx">
-<display-name>ESPN 3 Latinoamerica</display-name>
-</channel>
 <channel id="EstrellaTV(Spanish).us">
 <display-name>Estrella TV</display-name>
 </channel>
-<channel id="Eurosport1.uk">
-<display-name>EuroSport 1</display-name>
-</channel>
 <channel id="Eurosport2.uk">
 <display-name>EuroSport 2</display-name>
-</channel>
-<channel id="FilmAndArts.mx">
-<display-name>Film &amp; Arts Latinoamerica</display-name>
 </channel>
 <channel id="FoxDeportes(Spanish).us">
 <display-name>Fox Sports Deportes</display-name>
 </channel>
 <channel id="FoxLife.mx">
 <display-name>FOX Life</display-name>
-</channel>
-<channel id="FoxSports(ConoNorte).mx">
-<display-name>Fox Sports Latinoamerica</display-name>
 </channel>
 <channel id="FOXSports(ConoSurArgentina).ar">
 <display-name>FoxSports.ar</display-name>
@@ -191,9 +147,6 @@
 </channel>
 <channel id="GalavisionCableNetwork(Spanish).us">
 <display-name>Galavision</display-name>
-</channel>
-<channel id="Glitz.mx">
-<display-name>Glitz Latinoamerica</display-name>
 </channel>
 <channel id="Golden.mx">
 <display-name>Golden</display-name>
@@ -249,12 +202,6 @@
 <channel id="MegaTV(Spanish).us">
 <display-name>Mega TV Miami</display-name>
 </channel>
-<channel id="MTV.mx">
-<display-name>MTV Latinoamerica</display-name>
-</channel>
-<channel id="NatGeoKids.mx">
-<display-name>Nat Geo Kids</display-name>
-</channel>
 <channel id="NationalGeographic.co">
 <display-name>National Geographic LatinoAmerica HD</display-name>
 </channel>
@@ -263,15 +210,6 @@
 </channel>
 <channel id="NationalGeographicWild.mx">
 <display-name>Nat Geo Wild LatinoAmerica</display-name>
-</channel>
-<channel id="Nick.mx">
-<display-name>Nick</display-name>
-</channel>
-<channel id="NickJr.mx">
-<display-name>Nick JR</display-name>
-</channel>
-<channel id="Once.mx">
-<display-name>Canal Once</display-name>
 </channel>
 <channel id="SenalColombia.co">
 <display-name>Senal Colombia</display-name>
@@ -301,9 +239,6 @@
 <display-name>Fox Premium Cinema</display-name>
 </channel>
 <channel id="starClassics.co">
-<display-name>Fox Premium Classics</display-name>
-</channel>
-<channel id="starClassics.mx">
 <display-name>Fox Premium Classics</display-name>
 </channel>
 <channel id="starComedy.co">
@@ -345,12 +280,6 @@
 <channel id="Syfy.mx">
 <display-name>Syfy Latinoamerica</display-name>
 </channel>
-<channel id="TCM.mx">
-<display-name>TCM America Latina</display-name>
-</channel>
-<channel id="TeenNick.mx">
-<display-name>Nick 2</display-name>
-</channel>
 <channel id="Telecinco.es">
 <display-name>Telecinco</display-name>
 </channel>
@@ -359,9 +288,6 @@
 </channel>
 <channel id="Telemundo(Spanish).us">
 <display-name>Telemundo</display-name>
-</channel>
-<channel id="TelemundoInternacional.mx">
-<display-name>Telemundo Internacional</display-name>
 </channel>
 <channel id="TeleSur.ar">
 <display-name>Telesur</display-name>
@@ -375,18 +301,12 @@
 <channel id="TUDN.mx">
 <display-name>TUDN</display-name>
 </channel>
-<channel id="TVCDeportes.mx">
-<display-name>TVC Deportes</display-name>
-</channel>
 <channel id="TvPublica.ar">
 <display-name>Telemundo</display-name>
 </channel>
 <channel id="TYCSports.ar">
 <display-name>TyC Sports</display-name>
 <display-name>TyC Sports HD</display-name>
-</channel>
-<channel id="Unicable.mx">
-<display-name>Unicable</display-name>
 </channel>
 <channel id="UniMas(East)(Spanish).us">
 <display-name>Unimas</display-name>
@@ -427,199 +347,6 @@
 <channel id="(no tvg-id)">
 <display-name>m3u4u.com</display-name>
 </channel>
-<programme start="20210816230600 +0000" stop="20210817004300 +0000" channel="AandE.mx">
-<title lang="es" >La masacre de Jonestown</title>
-<desc lang="es">Cuatro mujeres del círculo íntimo de Jim Jones, líder de una secta, ayudan a planear la masacre de Jonestown de 1978 en Guyana, la cual dejó más de 900 personas muertas.</desc>
-</programme>
-<programme start="20210816231500 +0000" stop="20210817012500 +0000" channel="AMC.mx">
-<title lang="es" >El vengador del futuro</title>
-<desc lang="es">El empleado de una fábrica decide tomarse unas pequeñas vacaciones mentales y contrata a una empresa de viajes virtuales para que le implante recuerdos de un inexistente viaje turístico a Marte.</desc>
-</programme>
-<programme start="20210816235900 +0000" stop="20210817004900 +0000" channel="AnimalPlanet.mx">
-<title lang="es" >Wild Frank: En busca del dragón</title>
-<desc lang="es">Frank Cuesta viaja a tierras lejanas dónde todavía existen mitos y leyendas sobre dragones, y se encuentra cara a cara con uno de los reptiles más temibles del mundo.</desc>
-</programme>
-<programme start="20210818004500 +0000" stop="20210818013000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Live casino</title>
-<desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
-</programme>
-<programme start="20210818013000 +0000" stop="20210818021500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Play uzu nights</title>
-<desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
-</programme>
-<programme start="20210818021500 +0000" stop="20210818041500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Minutos musicales</title>
-<desc lang="">Emisión de videoclips y piezas musicales.</desc>
-</programme>
-<programme start="20210818041500 +0000" stop="20210818065500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Las noticias de la mañana</title>
-<desc lang="">Primer noticiario de la jornada, en el que se ofrece un avance de las principales noticias del día. Manu Sánchez y María José Sáez junto a Marina Monzón conducen este informativo…
-Angie Rigueiro
-Irenka Zufiria
-Lorena García
-Manu Sánchez
-Maria José Saez
-Marina Monzón
-Mercedes Martín.</desc>
-</programme>
-<programme start="20210818065500 +0000" stop="20210818070000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Previo: Espejo Público</title>
-<desc lang="">Magacín matinal cuyo eje central es la actualidad nacional e internacional más inmediata
-Jota Abril Barrie
-Lorena García
-Susana Griso
-Susanna Griso.</desc>
-</programme>
-<programme start="20210818070000 +0000" stop="20210818112000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Espejo Público</title>
-<desc lang="">Magacín matinal cuyo eje central es la actualidad nacional e internacional más inmediata
-Jota Abril Barrie
-Lorena García
-Susana Griso
-Susanna Griso.</desc>
-</programme>
-<programme start="20210818112000 +0000" stop="20210818114500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cocina abierta de Karlos Arguiñano</title>
-<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
-Karlos Arguiñano.</desc>
-</programme>
-<programme start="20210818114500 +0000" stop="20210818130000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >La ruleta de la suerte</title>
-<desc lang="">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones
-Jorge Fernández.</desc>
-</programme>
-<programme start="20210818130000 +0000" stop="20210818134500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Antena 3 Noticias 1</title>
-<desc lang="">Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias más relevantes que han ocurrido a lo largo de la jornada de la mano de Sandra Golpe.
-Sandra Golpe.</desc>
-</programme>
-<programme start="20210818134500 +0000" stop="20210818140000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Deportes</title>
-<desc lang="">Espacio de mediodía de Antena 3 dedicado a la información deportiva, presentado por Rocío Martínez y Manu Sánchez. Un repaso a los resultados deportivos de la jornada en el ámbito…
-Manu Sánchez
-Rocío Martínez.</desc>
-</programme>
-<programme start="20210818140000 +0000" stop="20210818140200 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cocina abierta de Karlos Arguiñano</title>
-<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
-Karlos Arguiñano.</desc>
-</programme>
-<programme start="20210818140200 +0000" stop="20210818143000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Tu tiempo con Roberto Brasero</title>
-<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
-Roberto Brasero.</desc>
-</programme>
-<programme start="20210818143000 +0000" stop="20210818154500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Amar es para siempre</title>
-<desc lang="">Con dolor, Beltrán cae en la cuenta de una víctima inesperada en sus planes.
-Anabel Alonso
-Beatriz Argüello
-Fernando Cayo
-Itziar Miranda
-Iñaki Miramón
-Javier Collado
-José Antonio Sayagués
-José Manuel Seda
-Lucía Jiménez
-Lucía Martín Abello
-Manuel Baqueiro
-Mariona Ribas
-María Barranco
-Nadia de Santiago
-Olivia Molina
-Rocío Muñoz
-Víctor Clavijo.</desc>
-</programme>
-<programme start="20210818154500 +0000" stop="20210818170000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Tierra amarga</title>
-<desc lang="">Züleyha y Yilmaz, una joven pareja, tienen una plácida vida en Estambul hasta que un intento de abuso sexual y un crimen destrozan su vida para siempre.
-Bülent Polat
-Hilal Altinbilek
-Murat Ünalmis
-Selin Genç
-Selin Yeninci
-Sibel Tasçioglu.</desc>
-</programme>
-<programme start="20210818170000 +0000" stop="20210818180000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >¡Boom!</title>
-<desc lang="">Concurso presentado por Juanra Bonet en el que dos equipos de participantes deben desactivar bombas de leds respondiendo a varias preguntas en un tiempo concreto. Cuantos menos…
-Juanra Bonet.</desc>
-</programme>
-<programme start="20210818180000 +0000" stop="20210818190000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Pasapalabra</title>
-<desc lang="">Concurso de habilidad lingüística entre dos equipos formados por famosos y concursantes.
-Roberto Leal.</desc>
-</programme>
-<programme start="20210818190000 +0000" stop="20210818193000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Antena 3 Noticias 2</title>
-<desc lang="">Edición vespertina y de más audiencia de los informativos de la cadena con Vicente Vallés.
-Esther Vaquero
-Sandra Golpe
-Vicente Vallés.</desc>
-</programme>
-<programme start="20210818193000 +0000" stop="20210818193500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Deportes</title>
-<desc lang="">Espacio nocturno de Antena 3 dedicado a la información deportiva, presentado por Manu Sánchez y Rocío Martínez. Un repaso a los resultados deportivos de la jornada en el ámbito…
-Manu Sánchez
-Rocío Martínez.</desc>
-</programme>
-<programme start="20210818193500 +0000" stop="20210818194500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >El tiempo</title>
-<desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
-Roberto Brasero.</desc>
-</programme>
-<programme start="20210818194500 +0000" stop="20210818204500 +0000" channel="ANTENA3(src01).es">
-<title lang="" >El hormiguero 3.0</title>
-<desc lang="">Pablo Motos capitanea un equipo de desenfadados personajes dispuestos a diseccionar cada día la actualidad en tono jocoso
-Anna Castillo
-Antonio Dechent
-Carlos Cuevas
-Elena Furiase
-Leo Harlem
-Lola Índigo
-Lolita Flores
-Pablo Díaz
-Pablo Motos
-Santiago Segura.</desc>
-</programme>
-<programme start="20210818204500 +0000" stop="20210818224300 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Me resbala</title>
-<desc lang="">José Corbacho, Monaguillo, Edu Soto, Rocío Madrid, Santiago Segura, la Terremoto y Anabel Alonso serán los valientes que se atreverán a participar en la última entrega de la…
-Anabel Alonso
-Arturo Valls
-Carlos Latre
-David Fernández
-Edu Soto
-El Monaguillo
-J.J. Vaquero
-José Corbacho
-Laura Sánchez
-Luis Larrodera
-Pepa Charro
-Rocio Madrid
-Santiago Segura
-Silvia Abril
-Toni Acosta.</desc>
-</programme>
-<programme start="20210818224300 +0000" stop="20210819004000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Me resbala</title>
-<desc lang="">Nueva entrega del concurso más divertido de la televisión. Silvia Abril, José Corbacho, Anabel Alonso, Edu Soto, Pepón Nieto, El Monaguillo y La Terremoto de Alcorcón son los…
-Anabel Alonso
-Arturo Valls
-Carlos Latre
-David Fernández
-Edu Soto
-El Monaguillo
-J.J. Vaquero
-José Corbacho
-Laura Sánchez
-Luis Larrodera
-Pepa Charro
-Rocio Madrid
-Santiago Segura
-Silvia Abril
-Toni Acosta.</desc>
-</programme>
 <programme start="20210819004000 +0000" stop="20210819012500 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Live casino</title>
 <desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
@@ -922,24 +649,30 @@ Rocío Martínez.</desc>
 <desc lang="">Tras el informativo, Roberto Brasero presenta este espacio que ofrece al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al…
 Roberto Brasero.</desc>
 </programme>
-<programme start="20210820201000 +0000" stop="20210820224500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210820201000 +0000" stop="20210820214700 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Family Feud: la batalla de los famosos</title>
-<desc lang="">En este capítulo se enfrentan los componentes del programa El Hormiguero, capitaneados por Marron, contra los integrantes del programa Zapeando, con su presentador Dani Mateo como…
+<desc lang="">Dos equipos de famosos deben adivinar las respuestas más comunes por una buena causa.
 Nuria Roca.</desc>
 </programme>
-<programme start="20210820224500 +0000" stop="20210821003000 +0000" channel="ANTENA3(src01).es">
-<title lang="" >Cine</title>
-<desc lang="">Emisión de una película.</desc>
+<programme start="20210820214700 +0000" stop="20210820232400 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Family Feud: la batalla de los famosos</title>
+<desc lang="">Dos equipos de famosos con una conexión entre ellos deben adivinar las respuestas más comunes que 100 personas han dado a preguntas de todo tipo. En cada programa, los…
+Nuria Roca.</desc>
 </programme>
-<programme start="20210821003000 +0000" stop="20210821011500 +0000" channel="ANTENA3(src01).es">
+<programme start="20210820232400 +0000" stop="20210821010000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Family Feud: la batalla de los famosos</title>
+<desc lang="">Dos equipos de famosos con una conexión entre ellos deben adivinar las respuestas más comunes que 100 personas han dado a preguntas de todo tipo. En cada programa, los…
+Nuria Roca.</desc>
+</programme>
+<programme start="20210821010000 +0000" stop="20210821014500 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Live casino</title>
 <desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
 </programme>
-<programme start="20210821011500 +0000" stop="20210821020000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210821014500 +0000" stop="20210821023000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Play uzu nights</title>
 <desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
 </programme>
-<programme start="20210821020000 +0000" stop="20210821050000 +0000" channel="ANTENA3(src01).es">
+<programme start="20210821023000 +0000" stop="20210821050000 +0000" channel="ANTENA3(src01).es">
 <title lang="" >Minutos musicales</title>
 <desc lang="">Emisión de videoclips y piezas musicales.</desc>
 </programme>
@@ -1031,9 +764,106 @@ Himar González.</desc>
 <title lang="" >Cine</title>
 <desc lang="">Emisión de una película.</desc>
 </programme>
-<programme start="20210816233000 +0000" stop="20210817003000 +0000" channel="Azteca7.mx">
-<title lang="es" >Almas perdidas</title>
-<desc lang="es">Una muchacha ve las almas que no han cruzado la luz y su trabajo consiste en a resolver sus pendientes para poder cruzar.</desc>
+<programme start="20210822003000 +0000" stop="20210822011500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Live casino</title>
+<desc lang="">Concurso nocturno para que los espectadores puedan jugar como si estuvieran en el casino desde casa. La ruleta, el blackjack o el punto y banca son algunos de los juegos….</desc>
+</programme>
+<programme start="20210822011500 +0000" stop="20210822020000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Play uzu nights</title>
+<desc lang="">Programa lleno de útiles recomendaciones para que tu juego en PlayUZU sea el más divertido que hayas podido tener en un casino online, Además cuenta celebridades que acompañan la….</desc>
+</programme>
+<programme start="20210822020000 +0000" stop="20210822050000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Minutos musicales</title>
+<desc lang="">Emisión de videoclips y piezas musicales.</desc>
+</programme>
+<programme start="20210822050000 +0000" stop="20210822052500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Pelopicopata</title>
+<desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
+</programme>
+<programme start="20210822052500 +0000" stop="20210822055000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Pelopicopata</title>
+<desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
+</programme>
+<programme start="20210822055000 +0000" stop="20210822061500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Pelopicopata</title>
+<desc lang="">Docudrama en el que se muestran cuatro historias reales sobre las relaciones entre animales y seres humanos. El espacio cuenta también con una sección en la que personajes famosos….</desc>
+</programme>
+<programme start="20210822061500 +0000" stop="20210822101500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Los más</title>
+<desc lang="">Espacio de entretenimiento que en cada edición elabora un ranquin con diferentes temáticas. Cada semana ofrece un conjunto de las imágenes más destacadas de la televisión que han….</desc>
+</programme>
+<programme start="20210822101500 +0000" stop="20210822104600 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cocina abierta de Karlos Arguiñano</title>
+<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
+Karlos Arguiñano.</desc>
+</programme>
+<programme start="20210822104600 +0000" stop="20210822111800 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cocina abierta de Karlos Arguiñano</title>
+<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
+Karlos Arguiñano.</desc>
+</programme>
+<programme start="20210822111800 +0000" stop="20210822115000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cocina abierta de Karlos Arguiñano</title>
+<desc lang="">Karlos Arguiñano, el cocinero más famoso de la televisión, ofrece cada día nuevas recetas y trucos culinarios en este programa de Antena 3
+Karlos Arguiñano.</desc>
+</programme>
+<programme start="20210822115000 +0000" stop="20210822130000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >La ruleta de la suerte</title>
+<desc lang="">Clásico concurso en el que tres participantes deben adivinar las letras correctas que forman una palabra o una frase con la ayuda de una ruleta que cuenta con 24 opciones
+Jorge Fernández.</desc>
+</programme>
+<programme start="20210822130000 +0000" stop="20210822134500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Antena 3 Noticias 1 Fin de semana</title>
+<desc lang="">Edición del mediodía de los informativos del fin de semana de Antena 3, que sigue la estructura de los noticiarios diarios de la cadena. Las noticias acontecidas en las últimas…
+Matías Prats
+Mónica Carrillo.</desc>
+</programme>
+<programme start="20210822134500 +0000" stop="20210822135500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Deportes fin de semana</title>
+<desc lang="">Edición de fin de semana de la información deportiva de la mano de Óscar Castellanos. Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en…
+Óscar Castellanos.</desc>
+</programme>
+<programme start="20210822135500 +0000" stop="20210822140000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >El tiempo fin de semana</title>
+<desc lang="">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan…
+Himar González.</desc>
+</programme>
+<programme start="20210822140000 +0000" stop="20210822154500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cine</title>
+<desc lang="">Emisión de una película.</desc>
+</programme>
+<programme start="20210822154500 +0000" stop="20210822173000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cine</title>
+<desc lang="">Emisión de una película.</desc>
+</programme>
+<programme start="20210822173000 +0000" stop="20210822190000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Cine</title>
+<desc lang="">Emisión de una película.</desc>
+</programme>
+<programme start="20210822190000 +0000" stop="20210822194500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Antena 3 Noticias 2 fin de semana</title>
+<desc lang="">Edición vespertina del fin de semana de Antena 3 que sigue la estructura de los informativos diarios de la cadena. Matías Prats y Mónica Carrillo se encargan de presentar las…
+Matías Prats
+Mónica Carrillo.</desc>
+</programme>
+<programme start="20210822194500 +0000" stop="20210822195500 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Deportes fin de semana</title>
+<desc lang="">Edición de fin de semana de la información deportiva de la mano de Óscar Castellanos. Un repaso de lo más importante acontecido en el mundo del deporte con especial atención en…
+Óscar Castellanos.</desc>
+</programme>
+<programme start="20210822195500 +0000" stop="20210822201000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >El tiempo fin de semana</title>
+<desc lang="">Espacio de fin de semana presentado por Himar González que ofrece al espectador una información meteorológica cercana y directa. Además, informa de todos los aspectos que afectan…
+Himar González.</desc>
+</programme>
+<programme start="20210822201000 +0000" stop="20210823003000 +0000" channel="ANTENA3(src01).es">
+<title lang="" >Mi hija</title>
+<desc lang="">La historia de Öykü, una adorable y valiente niña de 8 años, y Demir, que años después descubre que él es su padre. Una emotiva historia de abnegación y devoción
+Beren Gokyildiz
+Bugra Gülsoy
+Leyla Lydia Tugutlu
+Serhat Teoman
+Tugay Mercan.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817003000 +0000" channel="beINSportsEnEspanol(Spanish).us">
 <title lang="es" >Fútbol CONMEBOL Libertadores</title>
@@ -1442,14 +1272,6 @@ Himar González.</desc>
 <programme start="20210820230000 +0000" stop="20210821010000 +0000" channel="beINSportsEnEspanol(Spanish).us">
 <title lang="es" >Stade Brestois vs. Paris Saint-Germain</title>
 <desc lang="es">Fútbol Ligue 1</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817010000 +0000" channel="canal5.mx">
-<title lang="es" >Malcolm el de en medio</title>
-<desc lang="es">Los Cleavers son una familia peculiar. La madre es una crontroladora radical que grita, el padre es un hombre chistoso calvo, el hijo mayor, Francis huyo de la familia a corta edad, Reese es un criminal, Dewey es un cadete espacial y el joven Jamie es un chivo expiatorio. El niño del medio es Malcolm (que se encarga de la narración como entretenimiento sobre su clan desquiciado), es un genio que no quiere ser agotado por su ingenio.</desc>
-</programme>
-<programme start="20210816222500 +0000" stop="20210817010000 +0000" channel="CanalSony.mx">
-<title lang="es" >Karate Kid</title>
-<desc lang="es">Cuando la carrera profesional de su madre los lleva a China, Dre Parker, de 12 años, descubre que es un extraño en una tierra desconocida. A pesar de que él sabe un poco de karate, sus habilidades para pelear no son suficientes contra Cheng, el acosador de su escuela. Dre encuentra a un amigo en el Sr. Han, un empleado de mantenimiento que también es maestro de las artes marciales. El Sr. Han le enseña a Dre todo sobre kung fu con la esperanza de que venza a Cheng.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="CaracolInternacional.co">
 <title lang="es" >Noticias Caracol</title>
@@ -2163,10 +1985,6 @@ Himar González.</desc>
 <title lang="es" >Vecinos</title>
 <desc lang="es">Un taxista soltero y humilde, llamado Óscar Leal, al que le gusta rumbear y divertirse, se la pasa conquistando a las jóvenes bellas y termina saliendo con Jessica, una mujer coqueta que se aprovecha de él cuando la suerte toca a su puerta y se gana la lotería. Con el dinero que él recibe, se muda a un conjunto de apartamentos lujoso y sus antiguos vecinos descansan del bullicio de sus fiestas. Ahora sus nuevos vecinos tienen que acostumbrarse a los hábitos extremos de este personaje sin modales, que se dedica a hacer todo tipo de celebraciones.</desc>
 </programme>
-<programme start="20210816235900 +0000" stop="20210817020000 +0000" channel="Cinemax.mx">
-<title lang="es" >Rápido y furioso</title>
-<desc lang="es">Un policía encubierto se infiltra en una banda de carreras callejeras de Los Ángeles mientras investiga robos de automóviles.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="CNBC.us">
 <title lang="en" >Shark Tank</title>
 <desc lang="en">Kids and teenagers present ideas that include a way to make drinking water more appealing, a business that tackles electronic waste and spicy-flavored raw honey; an update on Ryan's Barkery.</desc>
@@ -2490,10 +2308,6 @@ Himar González.</desc>
 <programme start="20210820230000 +0000" stop="20210821000000 +0000" channel="CNBC.us">
 <title lang="en" >The News With Shepard Smith</title>
 <desc lang="en">"The News With Shepard Smith" is CNBC's nightly newscast providing deep, non-partisan coverage and perspective on the day's most important stories.</desc>
-</programme>
-<programme start="20210816230000 +0000" stop="20210817003000 +0000" channel="Corazon.mx">
-<title lang="es" >UEPA - Un Escenario Para Amar</title>
-<desc lang="es">Lourdes trabaja de bailarina y mesera para poder pagar la matrícula del internado donde su hermana estudia, pero lo mantiene escondido mientras le dice a todos que es una prestigiosa psicóloga.</desc>
 </programme>
 <programme start="20210817003000 +0000" stop="20210817012000 +0000" channel="Cuatro.es">
 <title lang="es-ES" >Callejeros</title>
@@ -3299,10 +3113,6 @@ Himar González.</desc>
 <title lang="es" >Islas</title>
 <desc lang="es">Un viaje a través de la isla tropical de Madagascar. Se explora su fauna única, la cual abarca desde lémures hasta camaleones.</desc>
 </programme>
-<programme start="20210816231500 +0000" stop="20210817001000 +0000" channel="DiscoveryChannel.mx">
-<title lang="es" >Mexicánicos</title>
-<desc lang="es">Héctor es un excompañero de colegio de Isabel. Actualmente se dedica al rubro de seguridad, pero desea invertir en el negocio de las carrozas. Martín le aconseja una carroza original e innovadora.</desc>
-</programme>
 <programme start="20210817003600 +0000" stop="20210817012400 +0000" channel="DiscoveryCivilization.co">
 <title lang="es" >En busca del tesoro</title>
 <desc lang="es">El dueño americano del Lusitania le pide al equipo Odyssey que hagan una investigación arqueológica en el área del naufragio.</desc>
@@ -3846,10 +3656,6 @@ Himar González.</desc>
 <programme start="20210820234800 +0000" stop="20210821003600 +0000" channel="DiscoveryCivilization.co">
 <title lang="es" >Mundos Extremos</title>
 <desc lang="es">Una comunidad de mormones polígamos cuyos fundadores huyeron de Estados Unidos para practicar con libertad el matrimonio plural. Nefi y Marcial Lebaron sostienen varias familias en simultáneo.</desc>
-</programme>
-<programme start="20210816234800 +0000" stop="20210817003600 +0000" channel="DiscoveryCivilization.mx">
-<title lang="es" >A prueba de todo</title>
-<desc lang="es">El aventurero Bear Grylls sobrevive en el Océano Pacífico.</desc>
 </programme>
 <programme start="20210817000800 +0000" stop="20210817010400 +0000" channel="DiscoveryHomeandHealth.co">
 <title lang="es" >Vestido de Novia</title>
@@ -4987,10 +4793,6 @@ Himar González.</desc>
 <title lang="es" >Vikingos americanos</title>
 <desc lang="es">Nuevas pruebas revelan que los vikingos pudieron haberse enfrentado a los nativos norteamericanos hace miles de años. Utilizando tecnología de última generación, los expertos ponen a prueba tácticas y armas para intentar averiguar quién pudo haber vencido.</desc>
 </programme>
-<programme start="20210816234800 +0000" stop="20210817003600 +0000" channel="DiscoveryScience.mx">
-<title lang="es" >Artesano del apocalipsis</title>
-<desc lang="es">Un grupo de ingenieros de élite utilizan tecnología innovadora para poner en funcionamiento un tractor oruga OC-6 que es capaz de andar en cualquier terreno.</desc>
-</programme>
 <programme start="20210817004900 +0000" stop="20210817014100 +0000" channel="DiscoveryTurbo.co">
 <title lang="es" >Chatarra de Oro</title>
 <desc lang="es">Filosofías de negocios opuestas de padre e hijo son puestas a prueba cuando dos proyectos diferentes llegan al patio.</desc>
@@ -5482,10 +5284,6 @@ Himar González.</desc>
 <programme start="20210820233600 +0000" stop="20210821000300 +0000" channel="DiscoveryTurbo.co">
 <title lang="es" >Maestros de la mecánica</title>
 <desc lang="es">Jared trabaja en una moto Victory Octane 2017 y compite contra el Mustang GT de Lou, en una auténtica batalla que mide la potencia de una motocicleta contra la de un automóvil.</desc>
-</programme>
-<programme start="20210816235700 +0000" stop="20210817004900 +0000" channel="DiscoveryTurbo.mx">
-<title lang="es" >Al estilo Kindig</title>
-<desc lang="es">Un Ford del 54 sacado directamente de la granja, se transforma en un bólido de reparto de leche, mientras que un Challenger se moderniza; Kevin deja su marca en el taller.</desc>
 </programme>
 <programme start="20210817003000 +0000" stop="20210817012000 +0000" channel="EEntertainmentTV.co">
 <title lang="es" >Bajo cubierta mediterráneo</title>
@@ -6006,10 +5804,6 @@ Himar González.</desc>
 <programme start="20210820234000 +0000" stop="20210821003000 +0000" channel="EEntertainmentTV.co">
 <title lang="es" >Bajo cubierta mediterráneo</title>
 <desc lang="es">La capitana Sandy se embarca en otra temporada en el Mediterráneo. Joao regresa como contramaestre con la esperanza de demostrar que puede liderar un equipo de cubierta que incluye a su mejor amigo, Colin.</desc>
-</programme>
-<programme start="20210816234000 +0000" stop="20210817003000 +0000" channel="EEntertainmentTV.mx">
-<title lang="es" >Bajo cubierta mediterráneo</title>
-<desc lang="es">Joao consolida el triángulo amoroso, dejando confundida a Kasey; Hannah se siente despreciada por Brooke cuando ella busca una relación con Joao; Adam sale a buscar comida; Hannah siente que Conrad no la apoya.</desc>
 </programme>
 <programme start="20210817011500 +0000" stop="20210817023000 +0000" channel="ESPN.ar">
 <title lang="es" >Equipo F</title>
@@ -6586,10 +6380,6 @@ Himar González.</desc>
 <programme start="20210820230000 +0000" stop="20210821020000 +0000" channel="ESPN2.ar">
 <title lang="es" >Chicago White Sox vs. Tampa Bay Rays</title>
 <desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210816230000 +0000" stop="20210817023000 +0000" channel="Espn2.mx">
-<title lang="es" >Tenis ATP</title>
-<desc lang="es">Acción de la primera jornada del Western &amp; Southern Open. Desde el Lindner Family Tennis Center, en Cincinnati.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817030000 +0000" channel="ESPN3(south).ar">
 <title lang="es" >Oakland Athletics vs. Chicago White Sox</title>
@@ -7739,10 +7529,6 @@ Himar González.</desc>
 <title lang="es" >100 latinos dijeron</title>
 <desc lang="es">Dos familias competirán respondiendo a distintas preguntas por la oportunidad de ganar dinero basados en las respuestas más populares, de acuerdo a las previamente respondidas por 100 latinos alrededor de Estados Unidos.</desc>
 </programme>
-<programme start="20210816233000 +0000" stop="20210817003000 +0000" channel="Eurosport2.uk">
-<title lang="en-GB" >Cycling</title>
-<desc lang="en-GB">Follow some of the greatest cycling action.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="FoxDeportes(Spanish).us">
 <title lang="en, es" >Golden Boy Promotions</title>
 <desc lang="en, es">Desde Las Vegas, Nevada. Pelea del 6 de octubre de 2007.</desc>
@@ -8154,10 +7940,6 @@ Himar González.</desc>
 <programme start="20210820233000 +0000" stop="20210821000000 +0000" channel="FoxDeportes(Spanish).us">
 <title lang="en, es" >FOX Deportes en Vivo</title>
 <desc lang="en, es">Toda la acción en el mundo de los deportes.</desc>
-</programme>
-<programme start="20210816234300 +0000" stop="20210817002200 +0000" channel="FoxLife.mx">
-<title lang="es" >La Ley y el orden: Unidad de Víctimas Especiales</title>
-<desc lang="es">Benson y Stabler chocan con un asistente de abogado de EE.UU cuando el principal sospechoso y la víctima de un caso de violación desaparece del programa de protección de testigos.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="FOXSports(ConoSurArgentina).ar">
 <title lang="es" >Fútbol UEFA Champions League</title>
@@ -8643,10 +8425,6 @@ Himar González.</desc>
 <title lang="es" >Expediente fútbol</title>
 <desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
 </programme>
-<programme start="20210816235000 +0000" stop="20210817015000 +0000" channel="FoxSports2(ConoNorte).mx">
-<title lang="es" >Pachuca vs. América</title>
-<desc lang="es">Fútbol Mexicano Femenino Primera División</desc>
-</programme>
 <programme start="20210817010000 +0000" stop="20210817020000 +0000" channel="FoxSports3(ConoSur).ar">
 <title lang="es" >World Rally Championship</title>
 <desc lang="es">Un repaso con los mejores momentos de la décima fecha del calendario.</desc>
@@ -8986,18 +8764,6 @@ Himar González.</desc>
 <programme start="20210820233000 +0000" stop="20210821000000 +0000" channel="FoxSports3(ConoSur).ar">
 <title lang="es" >FIM Motocross</title>
 <desc lang="es">Toda la acción del MXGP de Latvia. Disputado el 8 de agosto del 2021.</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817010000 +0000" channel="FoxSports3.mx">
-<title lang="es" >Campeonato Mundial Rally</title>
-<desc lang="es">Toda la acción de la Powerstage del Rally de Ypres, Bélgica 2021.</desc>
-</programme>
-<programme start="20210816220100 +0000" stop="20210817001000 +0000" channel="FX.mx">
-<title lang="es" >3 días para matar</title>
-<desc lang="es">Un agente moribundo del Servicio Secreto que desea reencontrarse con su hija distanciada recibe la oferta de una droga que podría salvar su vida a cambio de completar una misión final.</desc>
-</programme>
-<programme start="20210816231800 +0000" stop="20210817020000 +0000" channel="FXMovies.mx">
-<title lang="es" >Siete años en el Tíbet</title>
-<desc lang="es">Un famoso alpinista austríaco aprende lecciones por parte del joven Dalai Lama sobre la humildad y el altruismo.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817003000 +0000" channel="GalavisionCableNetwork(Spanish).us">
 <title lang="es" >La familia P. Luche</title>
@@ -9567,14 +9333,6 @@ Himar González.</desc>
 <title lang="es" >Una familia de diez</title>
 <desc lang="es">A Renata le encanta espiar a sus vecinos desde la ventana del dormitorio con el telescopio de Justito para confirmar o desmentir chismes. Plutarco involucra a Plácido en un nuevo accidente y lo deja postrado en una silla de ruedas.</desc>
 </programme>
-<programme start="20210816231700 +0000" stop="20210817020000 +0000" channel="Golden.mx">
-<title lang="es" >El callejón de los milagros</title>
-<desc lang="es">En las calles de la agitada ciudad de México, las historias de un grupo de personas se mezclan y entrecruzan.</desc>
-</programme>
-<programme start="20210816231500 +0000" stop="20210817011100 +0000" channel="GoldenEdge.mx">
-<title lang="es" >León: peleador sin Ley</title>
-<desc lang="es">Un legionario participa en una pelea ilegal, con el fin de reunir dinero para la familia de su hermano.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817020000 +0000" channel="GOLTV(Spanish).us">
 <title lang="es" >Olmedo vs. 9 de Octubre</title>
 <desc lang="es">Fútbol Ecuatoriano Primera División</desc>
@@ -9986,34 +9744,6 @@ Himar González.</desc>
 <programme start="20210820230000 +0000" stop="20210821000000 +0000" channel="GOLTV(Spanish).us">
 <title lang="es" >Portugol</title>
 <desc lang="es">Noticias, jugadas y momentos destacados del fútbol portugués.</desc>
-</programme>
-<programme start="20210816234000 +0000" stop="20210817020000 +0000" channel="HBO.mx">
-<title lang="es" >Midway: batalla en el Pacífico</title>
-<desc lang="es">Una flota estadounidense que se encuentra en desventaja se enfrenta a la Armada Imperial Japonesa en la Batalla de Midway: una de las batallas más importantes y decisivas de la Segunda Guerra Mundial.</desc>
-</programme>
-<programme start="20210816235000 +0000" stop="20210817020000 +0000" channel="HBO2.mx">
-<title lang="es" >Jumanji: El siguiente nivel</title>
-<desc lang="es">Spencer regresa al fantástico mundo de Jumanji. Sus amigos, Martha, Fridge y Bethany vuelven a entrar al juego para llevarlo de vuelta a casa, pero todo sobre Jumanji está a punto de cambiar, ya que descubren más obstáculos y peligros que superar.</desc>
-</programme>
-<programme start="20210816232300 +0000" stop="20210817010000 +0000" channel="HBOFamily.mx">
-<title lang="es" >Kung Fu Panda 3</title>
-<desc lang="es">En esta tercera aventura panda, Po deberá enfrentar dos desafíos épicos: uno, de origen sobrenatural, y el otro, muy cerca de su hogar, con la aparición de quien dice ser su padre biológico.</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817011000 +0000" channel="HBOPlus.mx">
-<title lang="es" >Resident Evil 4: La resurrección</title>
-<desc lang="es">En un mundo invadido por los muertos vivientes, Alice continúa su batalla en contra de una corporación, deteniendo a los sobrevivientes a lo largo del camino. Alice, un viejo amigo y sus compañeros se dirigen a un supuesto sitio seguro en Los Ángeles. Sin embargo, en vez de encontrar un santuario, ellos descubren una ciudad controlada por los zombies y una trampa que está por sorprenderlos.</desc>
-</programme>
-<programme start="20210816225100 +0000" stop="20210817005000 +0000" channel="HBOXtreme.mx">
-<title lang="es" >El juego de Ender</title>
-<desc lang="es">Un joven talentoso exhibe un talento inusual que provoca sea elegido para un entrenamiento militar avanzado para encabezar a las fuerzas de la Tierra en una guerra intensa contra los Formics, unos invasores extraterrestres.</desc>
-</programme>
-<programme start="20210816232100 +0000" stop="20210817001300 +0000" channel="History2.mx">
-<title lang="es" >Naufragios: Secretos en las profundidades</title>
-<desc lang="es">Tras el ataque de Estados Unidos a la flota imperial japonesa en Micronesia durante la Segunda Guerra Mundial, Chuck Lagoon se convirtió en el mayor cementerio submarino del mundo.</desc>
-</programme>
-<programme start="20210816232100 +0000" stop="20210817001500 +0000" channel="HistoryChannel.mx">
-<title lang="es" >Alienígenas ancestrales</title>
-<desc lang="es">Estudiando cómo los seres humanos aprendieron a curar mediante la exploración de las antiguas posibilidades relacionados con el cuerpo humano, los avances en la medicina y los procedimientos médicos.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817013000 +0000" channel="HolaTv.co">
 <title lang="es" >La hora Hola</title>
@@ -11074,10 +10804,6 @@ Himar González.</desc>
 <programme start="20210820200000 +0000" stop="20210821000000 +0000" channel="La2.es">
 <title lang="es-ES" >Programa a determinar</title>
 <desc lang="es-ES">Espacio con programación a determinar por la cadena de emisión.</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817003000 +0000" channel="LasEstrellas.mx">
-<title lang="es" >Esta historia me suena</title>
-<desc lang="es">Cada episodio aborda los problemas familiares representados en una canción que inspira la historia del episodio. La trama conduce a la reflexión de problemas entre padres e hijos y muestra cómo resolverlos en la vida cotidiana.</desc>
 </programme>
 <programme start="20210817003500 +0000" stop="20210817010500 +0000" channel="LaSexta.es">
 <title lang="es-ES" >European Poker Tour</title>
@@ -12251,14 +11977,6 @@ Himar González.</desc>
 <title lang="es" >Traficantes</title>
 <desc lang="es">El HSI vigila a un sospechoso que podría estar vendiendo metanfetamina en Atlanta. El CBP captura un contrabandista interno.</desc>
 </programme>
-<programme start="20210816231800 +0000" stop="20210817001500 +0000" channel="NationalGeographic.mx">
-<title lang="es" >Traficantes</title>
-<desc lang="es">Agentes especiales se enfrentan a contrabandistas que intentan ingresar con cocaína al país.</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817001500 +0000" channel="NationalGeographicWild.mx">
-<title lang="es" >Yukon Vet</title>
-<desc lang="es">La Dra. Oakley atiende a un ciervo demasiado delgado que tiene dolor de estómago.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817003000 +0000" channel="SenalColombia.co">
 <title lang="es" >RTVC noticias</title>
 <desc lang="es">Un espacio que tiene como objetivo informar de manera oportuna y dinámica, con contenidos noticiosos que aporten en la construcción de la ciudadanía.</desc>
@@ -13243,10 +12961,6 @@ Himar González.</desc>
 <title lang="en" >The End</title>
 <desc lang="en">Persephone's life hangs in the balance, prompting Edie and Kate to make amends; Dawn takes action.</desc>
 </programme>
-<programme start="20210816223700 +0000" stop="20210817010600 +0000" channel="Space.mx">
-<title lang="es" >Rápidos y furiosos 7</title>
-<desc lang="es">Ha pasado un año desde que Dominic y Brian fueron indultados y pudieron regresar a Estados Unidos. Aunque desean adaptarse a su nueva vida dentro de la legalidad, las cosas no son tan fáciles. Además, un asesino británico va a entrar en sus vidas.</desc>
-</programme>
 <programme start="20210817010000 +0000" stop="20210817030600 +0000" channel="starAction.co">
 <title lang="es" >Maze Runner: Prueba de fuego</title>
 <desc lang="es">Tras escapar del laberinto, Thomas y sus compañeros llegan a un recinto militar donde hay otros chicos rescatados y en el que les prometen ayuda. Sin embargo, Thomas percibe que algo sospechoso está ocurriendo.</desc>
@@ -13482,14 +13196,6 @@ Himar González.</desc>
 <programme start="20210820231700 +0000" stop="20210821010000 +0000" channel="starAction.co">
 <title lang="es" >Non stop: Sin escalas</title>
 <desc lang="es">Durante un vuelo de Nueva York a Londres, un agente federal aéreo recibe una serie de mensajes de texto informándole que un pasajero será asesinado cada 20 minutos hasta que el Gobierno transfiera 150 millones de dólares a una cuenta.</desc>
-</programme>
-<programme start="20210816231000 +0000" stop="20210817010000 +0000" channel="starAction.mx">
-<title lang="es" >Maze Runner: correr o morir</title>
-<desc lang="es">Thomas es un adolescente cuya memoria fue borrada y que ha sido encerrado junto a otros chicos de su edad en un laberinto plagado de monstruos y misterios. Para sobrevivir, tendrá que adaptarse a las normas y a los demás habitantes del laberinto.</desc>
-</programme>
-<programme start="20210816223400 +0000" stop="20210817005100 +0000" channel="StarChannel.mx">
-<title lang="es" >Máquinas mortales</title>
-<desc lang="es">En un futuro apocalíptico, una mujer misteriosa debe destruir Londres, una ciudad gigantesca que se transporta sobre ruedas devorando, a su paso, los recursos de otras ciudades más pequeñas.</desc>
 </programme>
 <programme start="20210817010000 +0000" stop="20210817023000 +0000" channel="STARCINEMA.co">
 <title lang="es" >Las grietas de Jara</title>
@@ -13738,10 +13444,6 @@ Himar González.</desc>
 <programme start="20210820232900 +0000" stop="20210821010000 +0000" channel="STARCINEMA.co">
 <title lang="es" >Abzurdah</title>
 <desc lang="es">La historia de Cielo, una adolescente de clase media acomodada que conoce a un chico nueve años mayor por internet y se enamora obsesivamente. La relación se vuelve cada vez más enfermiza, y ella cada vez se destruye más a sí misma, hasta llegar a límites insostenibles.</desc>
-</programme>
-<programme start="20210816231200 +0000" stop="20210817010000 +0000" channel="STARCINEMA.mx">
-<title lang="es" >High Life</title>
-<desc lang="es">Un grupo de condenados a muerte se dirige, en una nave espacial, hacia los confines del sistema solar porque forman parte de un experimento científico con el que se pretende investigar los agujeros negros.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817020700 +0000" channel="starClassics.co">
 <title lang="es" >El hombre de la máscara de hierro</title>
@@ -14243,10 +13945,6 @@ Himar González.</desc>
 <title lang="es" >Una pareja infernal</title>
 <desc lang="es">Una joven y su novio se preparan para impedir que el anticristo se apodere de ella como su novia impía.</desc>
 </programme>
-<programme start="20210816233800 +0000" stop="20210817010000 +0000" channel="starcomedy.mx">
-<title lang="es" >Una pareja infernal</title>
-<desc lang="es">Una joven y su novio se preparan para impedir que el anticristo se apodere de ella como su novia impía.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817013000 +0000" channel="starfun.co">
 <title lang="es" >¡Esto es guerra!</title>
 <desc lang="es">Los agentes de la CIA FDR Foster y Tuck son inseparables mejores amigos y compañeros. En conjunto, su buena apariencia y habilidades secretas y de combate los clasifican en la élite de la CIA, pero su relación personal y profesional es puesta a prueba cuando conocen a Lauren. FDR y Tuck se enamoran de la hermosa rubia, transformando sus habilidades mortales y artefactos de alta tecnología en contra de ellos en una gran batalla por el amor de la mujer.</desc>
@@ -14495,10 +14193,6 @@ Himar González.</desc>
 <title lang="es" >Pequeña... otra vez</title>
 <desc lang="es">Jordan, una mujer exigente que atormenta a su asistente, April, y a sus empleados, regresa mágicamente a la edad de trece años justo antes de un evento corporativo muy importante.</desc>
 </programme>
-<programme start="20210816225200 +0000" stop="20210817010600 +0000" channel="STARFUN.mx">
-<title lang="es" >Divergente</title>
-<desc lang="es">En una sociedad futurista, la gente está dividida entre facciones basadas en sus personalidades. Después de que una joven descubre que ella es una divergente y nunca será de ningún grupo, revela un complot para destruir a quienes son como ella.</desc>
-</programme>
 <programme start="20210817010000 +0000" stop="20210817022800 +0000" channel="StarHits.co">
 <title lang="es" >Búsqueda implacable 2</title>
 <desc lang="es">Hace dos años, el agente retirado de la CIA, Bryan Mills usó sus 'habilidades particulares' para rescatar a su hija, Kim, de unos secuestradores albaneses. Desde entonces, Kim ha estado aprendiendo defensa personal con su padre, y Bryan ha estado en una misión personal reconciliándose con su exesposa. En Estambul, Bryan y su familia se encuentran con Murad, cuyo hijo murió a manos de Bryan durante el rescate de Kim. Murad quiere vengarse y ahora es Kim quien debe salvar a su padre.</desc>
@@ -14710,10 +14404,6 @@ Himar González.</desc>
 <programme start="20210820230100 +0000" stop="20210821010000 +0000" channel="StarHits.co">
 <title lang="es" >Aprendices fuera de línea</title>
 <desc lang="es">Dos hombres cuarentones pierden sus trabajos y realizan internados en una compañía con unos jefes mucho más jóvenes.</desc>
-</programme>
-<programme start="20210816230500 +0000" stop="20210817010000 +0000" channel="StarHits.mx">
-<title lang="es" >Máxima velocidad</title>
-<desc lang="es">Un oficial de policía debe detener un autobús metropolitano en el que un psicópata colocó una bomba, la cual explotará si el vehículo baja de los 80 kilómetros por hora.</desc>
 </programme>
 <programme start="20210817002300 +0000" stop="20210817010900 +0000" channel="starSeries.co">
 <title lang="es" >The Walking Dead</title>
@@ -15186,10 +14876,6 @@ Himar González.</desc>
 <programme start="20210820232800 +0000" stop="20210821001500 +0000" channel="starSeries.co">
 <title lang="es" >The Walking Dead</title>
 <desc lang="es">El grupo debe averiguar cómo salir de una situación peligrosa.</desc>
-</programme>
-<programme start="20210816232200 +0000" stop="20210817002300 +0000" channel="StarSeries.mx">
-<title lang="es" >The New Pope</title>
-<desc lang="es">Voiello se retira y el cardenal Assente lo sucede, pero su política no es del gusto de todos los cardenales. El Vaticano pone fin a las transmisiones de radio que retransmiten la respiración de Pío XIII. Una decisión que molesta a los idólatras.</desc>
 </programme>
 <programme start="20210817011200 +0000" stop="20210817030000 +0000" channel="StarzEncoreAction.us">
 <title lang="en" >The Scorpion King 3: Battle for Redemption</title>
@@ -15894,14 +15580,6 @@ Himar González.</desc>
 <programme start="20210820233000 +0000" stop="20210821010000 +0000" channel="StarzEncoreSuspense.us">
 <title lang="en" >The Replacement Killers</title>
 <desc lang="en">Hired assassin John Lee (Chow Yun-Fat) is asked by Chinatown crime boss Terence Wei (Kenneth Tsang) to murder the young son of policeman Stan Zedkov (Michael Rooker). Lee has the boy in his sights, but his conscience gets the better of him, and he spares the child's life. Afraid that Wei will take revenge on his family in China, Lee seeks out expert forger Meg Coburn (Mira Sorvino) to obtain the passport he needs to get out of the country, but a band of replacement killers is soon on his trail.</desc>
-</programme>
-<programme start="20210816225000 +0000" stop="20210817010000 +0000" channel="StudioUniversal.mx">
-<title lang="es" >Corazón borrado</title>
-<desc lang="es">Jared, el hijo de un predicador baptista de un pequeño pueblo, admite a sus padres que es homosexual. Estos dan a Jared un ultimátum: o se somete a una terapia para modificar su condición sexual o será expulsado de la familia para siempre.</desc>
-</programme>
-<programme start="20210816232000 +0000" stop="20210817001000 +0000" channel="Syfy.mx">
-<title lang="es" >Lost</title>
-<desc lang="es">Juliet y Kate deben trabajar juntas para salvar a Jack cuando su salud se ve afectada. Las cosas salen mal cuando Sawyer, Claire, Miles y Aaron van a la playa.</desc>
 </programme>
 <programme start="20210817002000 +0000" stop="20210817004000 +0000" channel="Telecinco.es">
 <title lang="es-ES" >¡Toma salami!</title>
@@ -17711,18 +17389,6 @@ Himar González.</desc>
 <title lang="es" >Edición central</title>
 <desc lang="es">El resumen informativo más completo de las noticias del día sobre el acontecer de América Latina y el resto del mundo, con perspectiva latinoamericana.</desc>
 </programme>
-<programme start="20210816231300 +0000" stop="20210817005800 +0000" channel="TNT.mx">
-<title lang="es" >Minions</title>
-<desc lang="es">Los minions, ingenuos y torpes, buscan un verdadero villano al que servir. A lo largo de una evolución de millones de años, los minions se han puesto al servicio de los amos más despreciables. Kevin, acompañado por el rebelde Stuart y el adorable Bob, emprende un emocionante viaje para conseguir una jefa a quien servir, la terrible Scarlet Overkill.</desc>
-</programme>
-<programme start="20210816233900 +0000" stop="20210817002900 +0000" channel="TNTSeries.mx">
-<title lang="es" >The Mentalist</title>
-<desc lang="es">Jane encuentra una pista importante acerca de los métodos de Red John mientras el equipo encuentra a cuatro sospechosos; un ataque aéreo mata a un ingeniero de software.</desc>
-</programme>
-<programme start="20210816235500 +0000" stop="20210817020000 +0000" channel="TUDN.mx">
-<title lang="es" >Tigres UANL vs. Atlético San Luis</title>
-<desc lang="es">Fútbol Mexicano Femenino Primera División</desc>
-</programme>
 <programme start="20210817010000 +0000" stop="20210817020000 +0000" channel="TvPublica.ar">
 <title lang="es" >Desiguales</title>
 <desc lang="es">Un espacio en el que se reflexiona sobre el presente, profundizando el análisis de temas e ideas relevantes. El programa tendrá invitados especiales de diversos ámbitos que brindarán la posibilidad de escuchar diferentes voces sobre cada tema.</desc>
@@ -19454,10 +19120,6 @@ Himar González.</desc>
 <programme start="20210820233000 +0000" stop="20210821002500 +0000" channel="Universaltv.co">
 <title lang="es" >Chicago P.D.</title>
 <desc lang="es">Después de llegar a Chicago para asistir a Voight y el equipo con un caso de violación/asesinato que tiene claras similitudes a un caso de hace 10 años en Nueva York, el sargento Benson pide ayuda a Fin y Amaro.</desc>
-</programme>
-<programme start="20210816233000 +0000" stop="20210817002000 +0000" channel="Universaltv.mx">
-<title lang="es" >Chicago P.D.</title>
-<desc lang="es">El padre (Jack Coleman) de Ruzek es el primero en la escena de un doble asesinato; Lindsay se prepara para una investigación encubierta en Bolivia; Roman y Burgess intentan seguir adelante.</desc>
 </programme>
 <programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="UNIVERSO(Spanish).us">
 <title lang="es" >Caso cerrado</title>
@@ -21291,14 +20953,6 @@ Himar González.</desc>
 <title lang="es" >Un gancho al corazón</title>
 <desc lang="es">Jimena descubre que Arnoldo no es gay. Mauricio y Valentina le dan la noticia de su boda a Isabel. Nieves le dice a Beto que Valentina y Mauricio se casarán, pero Constanza la escucha y se molesta.</desc>
 </programme>
-<programme start="20210816200000 +0000" stop="20210817020000 +0000" channel="VH1.mx">
-<title lang="es" >Non-Stop Nostalgia</title>
-<desc lang="es">Una lista de las canciones más hermosas para celebrar un día nostálgico de buena música.</desc>
-</programme>
-<programme start="20210816220200 +0000" stop="20210817005000 +0000" channel="WarnerChannel.mx">
-<title lang="es" >Superman regresa</title>
-<desc lang="es">Mientras un viejo enemigo planea destruirlo de una vez por todas, el Hombre de Acero regresa después de una larga ausencia a un mundo completamente diferente. Lois Lane ha continuado su vida, y la sociedad ha aprendido a sobrevivir sin él. Superman debe encontrar la forma de regresar con ella y encontrar su lugar en un mundo que quizás ya no lo necesite.</desc>
-</programme>
 <programme start="20210817000000 +0000" stop="20210817003000 +0000" channel="WinSports.co">
 <title lang="es" >Fútbol: Previa</title>
 <desc lang="es">Reportajes, análisis y comentarios previo al gran evento deportivo.</desc>
@@ -21574,106 +21228,6 @@ Himar González.</desc>
 <programme start="20210820220000 +0000" stop="20210821000000 +0000" channel="WinSports.co">
 <title lang="es" >Fútbol Colombiano Segunda División</title>
 <desc lang="es">La mejor cobertura del torneo de Segunda División en Colombia.</desc>
-</programme>
-<programme start="20210816223000 +0000" stop="20210817003000 +0000" channel="XHDFTDT(AztecaUno).mx">
-<title lang="es" >Al extremo</title>
-<desc lang="es">Un programa periodístico que compila varios segmentos de noticias, las cuales tienen una cosa en común, estas son impactantes y asombrosas, algunas de estas noticias que se presentan son controversiales y algunas algo amarillistas. Una serie entretenida que dejará con la boca abierta a más de uno de sus espectadores, las noticias que se incluyen son sobre temas criminales, de salud, religiosos en el que se incluyen milagros y notas curiosas que son de interés público, entre otras, también se informa al público sobre los famosos que están haciendo noticia e información interesante sobre el mundo del entretenimiento.</desc>
-</programme>
-<programme start="20210817000000 +0000" stop="20210817010000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817010000 +0000" stop="20210817020000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817020000 +0000" stop="20210817030000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817030000 +0000" stop="20210817040000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817040000 +0000" stop="20210817050000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817050000 +0000" stop="20210817060000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817060000 +0000" stop="20210817070000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817070000 +0000" stop="20210817080000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817080000 +0000" stop="20210817090000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817090000 +0000" stop="20210817100000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817100000 +0000" stop="20210817110000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817110000 +0000" stop="20210817120000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817120000 +0000" stop="20210817130000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817130000 +0000" stop="20210817140000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817140000 +0000" stop="20210817150000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817150000 +0000" stop="20210817160000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817160000 +0000" stop="20210817170000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817170000 +0000" stop="20210817180000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817180000 +0000" stop="20210817190000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817190000 +0000" stop="20210817200000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817200000 +0000" stop="20210817210000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817210000 +0000" stop="20210817220000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817220000 +0000" stop="20210817230000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
-</programme>
-<programme start="20210817230000 +0000" stop="20210818000000 +0000" channel="(no tvg-id)">
-<title lang="en" >No program information available</title>
-<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
 </programme>
 <programme start="20210818000000 +0000" stop="20210818010000 +0000" channel="(no tvg-id)">
 <title lang="en" >No program information available</title>
@@ -22056,6 +21610,102 @@ Himar González.</desc>
 <desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
 </programme>
 <programme start="20210821230000 +0000" stop="20210822000000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822000000 +0000" stop="20210822010000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822010000 +0000" stop="20210822020000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822020000 +0000" stop="20210822030000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822030000 +0000" stop="20210822040000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822040000 +0000" stop="20210822050000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822050000 +0000" stop="20210822060000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822060000 +0000" stop="20210822070000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822070000 +0000" stop="20210822080000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822080000 +0000" stop="20210822090000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822090000 +0000" stop="20210822100000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822100000 +0000" stop="20210822110000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822110000 +0000" stop="20210822120000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822120000 +0000" stop="20210822130000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822130000 +0000" stop="20210822140000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822140000 +0000" stop="20210822150000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822150000 +0000" stop="20210822160000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822160000 +0000" stop="20210822170000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822170000 +0000" stop="20210822180000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822180000 +0000" stop="20210822190000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822190000 +0000" stop="20210822200000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822200000 +0000" stop="20210822210000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822210000 +0000" stop="20210822220000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822220000 +0000" stop="20210822230000 +0000" channel="(no tvg-id)">
+<title lang="en" >No program information available</title>
+<desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
+</programme>
+<programme start="20210822230000 +0000" stop="20210823000000 +0000" channel="(no tvg-id)">
 <title lang="en" >No program information available</title>
 <desc lang="en">Guide generated by m3u4u. Visit us: https://m3u4u.com</desc>
 </programme>
