@@ -24,13 +24,14 @@ http://tvgo.club:8080/live/andresktv/8713537819/195.ts
 http://streamectv.es:80/CANALESWEB/q5Vn3sjEkm/417.m3u8
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="ECUADOR",Ecuavisa 1
-http://streamectv.es:80/veltixencoder/cUZJg2pu2X/331.m3u8
+http://1play.cool:8000/live/lucas11dd/2b35c8ea36f1/46575.ts
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="ECUADOR",Ecuavisa 2
-http://gxlive.es/live/Gisellacuarto/HJKYT2968/9cba1f54-ca10-45f8-ae79-18ac3df12a22.m3u8
+http://1play.cool:8000/live/lucas11dd/2b35c8ea36f1/46575.ts
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/6U8pGfS.png" group-title="ECUADOR",Teleamazonas 1
 http://tvgo.club:8080/live/andresktv/8713537819/197.ts
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/6U8pGfS.png" group-title="ECUADOR",Teleamazonas 2
 http://tvgo.club:8080/live/andresktv/8713537819/198.ts
+
