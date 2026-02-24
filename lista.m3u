@@ -33,7 +33,8 @@ http://www.1play.cool:25461/live/Teamfruta/36b4fa7a506f/61875.ts
 http://tvgo.club:8080/live/andresktv/8713537819/197.ts
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://pagina.win/logos/ec/teleamazonas.png" group-title="ECUADOR",Teleamazonas 2
-http://15.204.247.247:8080/TeleamazonasHD/video.ts
+http://15.204.247.247:8080/TeleamazonasHD/video.m3u8
+
 
 
 
