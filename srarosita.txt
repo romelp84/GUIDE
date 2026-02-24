@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTGRP:ECUADOR
-
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/0F9Z9zN.png" group-title="ECUADOR",RTS 1
 http://tvgo.club:8080/live/andresktv/8713537819/192.ts
 
