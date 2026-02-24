@@ -3,19 +3,19 @@
 #EXTGRP:ECUADOR
 
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/0F9Z9zN.png" group-title="ECUADOR",RTS 1
-http://tvgo.club:8080/live/andresktv/8713537819/192.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/29925.m3u8
 
 #EXTINF:-1 tvg-id="RTS.ec" tvg-logo="https://i.imgur.com/0F9Z9zN.png" group-title="ECUADOR",RTS 2
 http://tvgo.club:8080/live/andresktv/8713537819/193.ts
 
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-logo="https://i.imgur.com/vH9pGqT.png" group-title="ECUADOR",Gamavision 1
-http://tvgo.club:8080/live/andresktv/8713537819/184.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/134482.m3u8
 
 #EXTINF:-1 tvg-id="Gamavision.ec" tvg-logo="https://i.imgur.com/vH9pGqT.png" group-title="ECUADOR",Gamavision 2
-http://tvgo.club:8080/live/andresktv/8713537819/185.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/30384.m3u8
 
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/N3HlXon.png" group-title="ECUADOR",TC 1
-http://tvgo.club:8080/live/andresktv/8713537819/194.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/30379.m3u8
 
 #EXTINF:-1 tvg-id="TCTelevision.ec" tvg-logo="https://i.imgur.com/N3HlXon.png" group-title="ECUADOR",TC 2
 http://tvgo.club:8080/live/andresktv/8713537819/195.ts
@@ -24,13 +24,15 @@ http://tvgo.club:8080/live/andresktv/8713537819/195.ts
 http://streamectv.es:80/CANALESWEB/q5Vn3sjEkm/417.m3u8
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="ECUADOR",Ecuavisa 1
-http://1play.cool:8000/live/lucas11dd/2b35c8ea36f1/46575.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/29923.m3u8
 
 #EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="http://209.126.82.213/EC/ecuavisa.png" group-title="ECUADOR",Ecuavisa 2
-http://1play.cool:8000/live/lucas11dd/2b35c8ea36f1/46575.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/61875.m3u8
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/6U8pGfS.png" group-title="ECUADOR",Teleamazonas 1
 http://tvgo.club:8080/live/andresktv/8713537819/197.ts
 
 #EXTINF:-1 tvg-id="Teleamazonas.ec" tvg-logo="https://i.imgur.com/6U8pGfS.png" group-title="ECUADOR",Teleamazonas 2
-http://tvgo.club:8080/live/andresktv/8713537819/198.ts
+http://www.1play.cool:25461/live/Barbershop/736b0be8d9f0/30381.m3u8
+
+
